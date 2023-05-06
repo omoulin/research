@@ -1,0 +1,7327 @@
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+# ########### #####
+#        #        #
+#        #        #
+#     @  #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #      X #
+###################
+Iteration:  0
+Training on environment  55333
+Solved with training agent.
+###################
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+# ############### #
+#        #      @ #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.721
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.838
+Time elapsed:  00:08:02
+*******************************Generalizability test :  0.22 *****************
+Iter:  0  ###############################Average return:  0.22435999999999998 #################
+Number of agents:  1
+Iteration:  1
+Training on environment  27490
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#      X #        #
+## ########### ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# @               #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:07:12
+Iteration:  2
+Training on environment  61614
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  3
+Training on environment  49030
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #    @   #
+#        #        #
+#        #        #
+#        #        #
+#### ###### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#  X     #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:02:51
+Iteration:  4
+Training on environment  37359
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#X       #        #
+#        #        #
+#        #        #
+#        #        #
+## ######### ######
+#@       #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.883
+Time elapsed:  00:00:54
+Iteration:  5
+Training on environment  31044
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  6
+Training on environment  9015
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+# @      #        #
+#        #        #
+### ###### ########
+#              X  #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:01:53
+Iteration:  7
+Training on environment  30346
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#     @  #        #
+#        #        #
+#        #        #
+#### ########### ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#    X   #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.982
+Time elapsed:  00:01:00
+Iteration:  8
+Training on environment  56682
+Solved with training agent.
+###################
+#                 #
+#        #      X #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ######## ######
+#        #        #
+#         @       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.874
+Time elapsed:  00:01:00
+Iteration:  9
+Training on environment  7458
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  10
+Training on environment  59991
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #     X  #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ########## ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# @               #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:02:59
+Iteration:  11
+Training on environment  35382
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+# ######### #######
+#    @   #        #
+#        #        #
+#  X     #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:00:58
+Iteration:  12
+Training on environment  46222
+Solved with training agent.
+###################
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #   @    #
+#        #        #
+##### ###### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.892
+Time elapsed:  00:01:00
+Iteration:  13
+Training on environment  50601
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  @     #        #
+#        #        #
+#                 #
+#        #        #
+##### ######### ###
+#        #        #
+#  X     #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.838
+Time elapsed:  00:01:59
+Iteration:  14
+Training on environment  44695
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  15
+Training on environment  16998
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+#                 #
+######## ## #######
+#        #        #
+#        #        #
+#        #        #
+#         @       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.829
+Time elapsed:  00:02:00
+Iteration:  16
+Training on environment  3941
+Solved with training agent.
+###################
+#                 #
+#      @ #        #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ############ #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.874
+Time elapsed:  00:06:51
+Iteration:  17
+Training on environment  54213
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#X       #        #
+#        #        #
+#        #        #
+#                 #
+#        #      @ #
+#        #        #
+### ############# #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.622
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:02:58
+Iteration:  18
+Training on environment  51188
+Solved with training agent.
+###################
+#        #        #
+#        #   X    #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+# ############## ##
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.73
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:08:45
+Iteration:  19
+Training on environment  32215
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+######## ## #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  @     #
+#   X             #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.874
+Time elapsed:  00:02:52
+Iteration:  20
+Training on environment  3762
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### #### ########
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#     @  #       X#
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:02:49
+Iteration:  21
+Training on environment  37588
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  22
+Training on environment  62344
+Solved with training agent.
+###################
+#        #     X  #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###### ##### ######
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        # @      #
+#        #        #
+###################
+Check for stopping training :  0.964
+Time elapsed:  00:01:00
+Iteration:  23
+Training on environment  41135
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  24
+Training on environment  31546
+Solved with training agent.
+###################
+#      @ #        #
+#                 #
+#        #        #
+#        #        #
+#        #X       #
+#        #        #
+#        #        #
+#        #        #
+# ########### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.892
+Time elapsed:  00:02:51
+Iteration:  25
+Training on environment  1923
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  26
+Training on environment  23288
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  27
+Training on environment  8130
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #     X  #
+#        #        #
+#                 #
+#        #        #
+## ####### ########
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#  @     #        #
+###################
+Check for stopping training :  0.964
+Time elapsed:  00:00:58
+Iteration:  28
+Training on environment  61899
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  29
+Training on environment  46608
+Solved with training agent.
+###################
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+#        # @      #
+#                 #
+#        #        #
+#        #        #
+######## ## #######
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.352
+Check for stopping training :  0.964
+Time elapsed:  00:03:54
+Iteration:  30
+Training on environment  51228
+Solved with training agent.
+###################
+#        #        #
+#               X #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ############## #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.712
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:02:02
+Iteration:  31
+Training on environment  45816
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+# @      #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+# ######### #######
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #    X   #
+###################
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:01:01
+Iteration:  32
+Training on environment  15182
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#   @    #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ######## ##
+#        #        #
+#        #        #
+#  X     #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.775
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:05:17
+Iteration:  33
+Training on environment  26082
+Solved with training agent.
+###################
+#        #       @#
+#        #        #
+#        #        #
+#   X    #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#### ########## ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:05:17
+Iteration:  34
+Training on environment  15564
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### #### #######
+#        #        #
+#        #        #
+#        #       X#
+#                 #
+#        #        #
+#        #        #
+#        #     @  #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.775
+Check for stopping training :  0.955
+Time elapsed:  00:08:28
+Iteration:  35
+Training on environment  31437
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #X       #
+#        #        #
+##### #### ########
+#        #        #
+#@       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.955
+Time elapsed:  00:01:07
+Iteration:  36
+Training on environment  2125
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  37
+Training on environment  9527
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  38
+Training on environment  59483
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  @     #        #
+### ####### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    X   #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:02:09
+Iteration:  39
+Training on environment  31402
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  40
+Training on environment  12589
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  41
+Training on environment  33066
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  42
+Training on environment  41411
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  43
+Training on environment  17751
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ####### ###
+#        #        #
+#        #        #
+#   X    #        #
+#        #        #
+#        #        #
+#        #     @  #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.478
+Check for stopping training :  0.919
+Time elapsed:  00:02:05
+Iteration:  44
+Training on environment  9938
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  45
+Training on environment  52584
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#    @   #        #
+#    X   #        #
+#        #        #
+###### ####### ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.973
+Time elapsed:  00:01:04
+Iteration:  46
+Training on environment  40227
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+## ############## #
+#        #   @    #
+#     X  #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:02:06
+Iteration:  47
+Training on environment  33158
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #    @   #
+#        #        #
+#        #        #
+# ############ ####
+#        #        #
+# X      #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.802
+Time elapsed:  00:01:08
+Iteration:  48
+Training on environment  10199
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ############ #
+#        #        #
+#@       #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+# X      #        #
+#        #        #
+###################
+Check for stopping training :  0.739
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.34299999999999997
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:06:31
+Iteration:  49
+Training on environment  7096
+Solved with training agent.
+###################
+#        #    X   #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ######## ########
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#     @  #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.748
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:03:19
+Iteration:  50
+Training on environment  18868
+Solved with pool of agents.
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.43 *****************
+Iter:  50  ###############################Average return:  0.67633 #################
+Number of agents:  31
+Iteration:  51
+Training on environment  28617
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  52
+Training on environment  42276
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #     @  #
+#        #        #
+#        #        #
+#        #        #
+######## ####### ##
+#        #        #
+#        #        #
+#   X    #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.6579999999999999
+Check for stopping training :  0
+Check for stopping training :  0.631
+Check for stopping training :  0.604
+Check for stopping training :  0.829
+Time elapsed:  00:05:31
+Iteration:  53
+Training on environment  19453
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       @         #
+#        #        #
+####### ##### #####
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#     X  #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.649
+Check for stopping training :  0.919
+Time elapsed:  00:03:15
+Iteration:  54
+Training on environment  45840
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                @#
+#        #        #
+#        #        #
+#        #        #
+#        #    X   #
+#        #        #
+###### ##### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.802
+Time elapsed:  00:01:08
+Iteration:  55
+Training on environment  15316
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  56
+Training on environment  43816
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# @      #        #
+#        #        #
+#        #        #
+# ########## ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                X#
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.901
+Time elapsed:  00:01:08
+Iteration:  57
+Training on environment  53379
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# X        @      #
+#        #        #
+#        #        #
+###### ###### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.45999999999999996
+Check for stopping training :  0.6759999999999999
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.6759999999999999
+Check for stopping training :  0.43299999999999994
+Check for stopping training :  0
+Check for stopping training :  0.757
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:11:27
+Iteration:  58
+Training on environment  27424
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  59
+Training on environment  39554
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+##### ######### ###
+#      @ #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.775
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:03:14
+Iteration:  60
+Training on environment  42570
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  61
+Training on environment  12598
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+## ############ ###
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #X       #
+#        #        #
+#        #        #
+#        # @      #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.748
+Check for stopping training :  0.946
+Time elapsed:  00:04:32
+Iteration:  62
+Training on environment  58084
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#  @     #        #
+#        #        #
+####### ######## ##
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  X     #
+#        #        #
+###################
+Check for stopping training :  0.901
+Time elapsed:  00:01:14
+Iteration:  63
+Training on environment  11049
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  64
+Training on environment  37769
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#X                #
+#        #        #
+#        #        #
+#        #        #
+#### ######### ####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.847
+Time elapsed:  00:02:19
+Iteration:  65
+Training on environment  31744
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  66
+Training on environment  38210
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  67
+Training on environment  14429
+Solved with training agent.
+###################
+#        #    @   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+######## #### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  X     #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.5680000000000001
+Check for stopping training :  0.4149999999999999
+Check for stopping training :  0.784
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:04:36
+Iteration:  68
+Training on environment  43818
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#### ######## #####
+#        #        #
+#     X  #        #
+#                 #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.3969999999999999
+Check for stopping training :  0.45999999999999996
+Check for stopping training :  0.721
+Check for stopping training :  0
+Check for stopping training :  0.5049999999999999
+Check for stopping training :  0.127
+Check for stopping training :  0
+Check for stopping training :  0.22599999999999998
+Check for stopping training :  0.16299999999999992
+Check for stopping training :  0.955
+Time elapsed:  00:10:35
+Iteration:  69
+Training on environment  49111
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ######### ####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#     X  #   @    #
+###################
+Check for stopping training :  0.874
+Time elapsed:  00:00:58
+Iteration:  70
+Training on environment  5671
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#     @  #        #
+#        #        #
+#### ############ #
+#        #        #
+#        #        #
+#   X    #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:00:58
+Iteration:  71
+Training on environment  49775
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        # X      #
+#          @      #
+#        #        #
+### ############ ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:00:59
+Iteration:  72
+Training on environment  1133
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #    @X  #
+#        #        #
+#                 #
+#        #        #
+# ######## ########
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.703
+Check for stopping training :  0.802
+Time elapsed:  00:01:52
+Iteration:  73
+Training on environment  12642
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  74
+Training on environment  63831
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ###### #####
+#        #        #
+#        #        #
+#        #   X    #
+#                 #
+#        #        #
+#        #        #
+#        #      @ #
+#        #        #
+###################
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:01:02
+Iteration:  75
+Training on environment  1079
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  76
+Training on environment  17807
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  77
+Training on environment  57620
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###### ######## ###
+#        #        #
+#        #     X  #
+#        # @      #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.856
+Time elapsed:  00:01:02
+Iteration:  78
+Training on environment  52113
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+##### ####### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   X    #
+#        #        #
+#        #        #
+#@                #
+###################
+Check for stopping training :  0.6579999999999999
+Check for stopping training :  0.478
+Check for stopping training :  0.919
+Time elapsed:  00:02:46
+Iteration:  79
+Training on environment  53810
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#    X@  #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+####### ##### #####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.478
+Check for stopping training :  0.352
+Check for stopping training :  0.802
+Time elapsed:  00:02:43
+Iteration:  80
+Training on environment  21542
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### #### ######
+#        #        #
+#        #    X @ #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.352
+Check for stopping training :  0.5589999999999999
+Check for stopping training :  0.82
+Time elapsed:  00:05:45
+Iteration:  81
+Training on environment  19414
+Solved with training agent.
+###################
+#   X    #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+######## ##### ####
+#        #        #
+#        #        #
+#        #        #
+#        #  @     #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.829
+Time elapsed:  00:01:01
+Iteration:  82
+Training on environment  50800
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ####### ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#            @  X #
+###################
+Check for stopping training :  0.33399999999999996
+Check for stopping training :  0
+Check for stopping training :  0.694
+Check for stopping training :  0.586
+Check for stopping training :  0.865
+Time elapsed:  00:04:41
+Iteration:  83
+Training on environment  63498
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#### ########## ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#          X      #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.685
+Check for stopping training :  0.91
+Time elapsed:  00:03:04
+Iteration:  84
+Training on environment  9386
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  85
+Training on environment  27472
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+#    X            #
+#        #        #
+#        #        #
+####### ### #######
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.30699999999999994
+Check for stopping training :  0.955
+Time elapsed:  00:02:00
+Iteration:  86
+Training on environment  59241
+Solved with training agent.
+###################
+#        #        #
+#                @#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### ####### #####
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#      X #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.577
+Check for stopping training :  0.5589999999999999
+Check for stopping training :  0.919
+Time elapsed:  00:03:04
+Iteration:  87
+Training on environment  44873
+Solved with training agent.
+###################
+# X      #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+##### ######## ####
+#        #        #
+#        #        #
+#         @       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.856
+Time elapsed:  00:01:09
+Iteration:  88
+Training on environment  37478
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                @#
+#        #        #
+#        #        #
+# ############## ##
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#X       #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.3879999999999999
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:02:57
+Iteration:  89
+Training on environment  12652
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ####### ######
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  X     #      @ #
+#        #        #
+###################
+Check for stopping training :  0.973
+Time elapsed:  00:01:08
+Iteration:  90
+Training on environment  59000
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  91
+Training on environment  48633
+Solved with training agent.
+###################
+#       @#        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   X    #
+#        #        #
+###### ###### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.613
+Check for stopping training :  0.4149999999999999
+Check for stopping training :  0.892
+Time elapsed:  00:03:13
+Iteration:  92
+Training on environment  1710
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  93
+Training on environment  6096
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  94
+Training on environment  21128
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  95
+Training on environment  55295
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  96
+Training on environment  7733
+Solved with training agent.
+###################
+# X      #        #
+#        #        #
+#                 #
+#@       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ###### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.694
+Check for stopping training :  0.784
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.3879999999999999
+Check for stopping training :  0.5409999999999999
+Check for stopping training :  0.43299999999999994
+Check for stopping training :  0.6399999999999999
+Check for stopping training :  0
+Check for stopping training :  0.739
+Check for stopping training :  0.838
+Time elapsed:  00:12:32
+Iteration:  97
+Training on environment  50325
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  98
+Training on environment  20330
+Solved with training agent.
+###################
+#        #        #
+#        #   @    #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ######## ##
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #X       #
+#        #        #
+###################
+Check for stopping training :  0.874
+Time elapsed:  00:01:10
+Iteration:  99
+Training on environment  12545
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#   X    #        #
+##### ######### ###
+#        #        #
+#        #        #
+#   @    #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.865
+Time elapsed:  00:01:10
+Iteration:  100
+Training on environment  9285
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+######## ###### ###
+#     X  #   @    #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.901
+Time elapsed:  00:01:07
+*******************************Generalizability test :  0.49 *****************
+Iter:  100  ###############################Average return:  0.77373 #################
+Number of agents:  63
+Iteration:  101
+Training on environment  16880
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  102
+Training on environment  26851
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #     @  #
+##### ####### #####
+#        #        #
+#        #       X#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.784
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:03:13
+Iteration:  103
+Training on environment  50435
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ####### ########
+#       X#        #
+#        #        #
+#        #        #
+#        #      @ #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.991
+Time elapsed:  00:01:17
+Iteration:  104
+Training on environment  27209
+Solved with training agent.
+###################
+#                 #
+#  X  @  #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### #### ########
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.982
+Time elapsed:  00:02:11
+Iteration:  105
+Training on environment  25854
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  106
+Training on environment  64868
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  107
+Training on environment  13995
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  108
+Training on environment  46452
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #X       #
+####### ######## ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    @   #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.532
+Check for stopping training :  0.6759999999999999
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:03:08
+Iteration:  109
+Training on environment  56972
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+######## ## #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#    @   #        #
+#        #        #
+#       X#        #
+###################
+Check for stopping training :  0.262
+Check for stopping training :  0.739
+Check for stopping training :  0.532
+Check for stopping training :  0.4149999999999999
+Check for stopping training :  0.946
+Time elapsed:  00:04:56
+Iteration:  110
+Training on environment  47952
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+### ####### #######
+#        #        #
+#        #        #
+#                 #
+#        #        #
+# X      #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.982
+Time elapsed:  00:01:04
+Iteration:  111
+Training on environment  48106
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  112
+Training on environment  49753
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  113
+Training on environment  44698
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  114
+Training on environment  23164
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   @    #
+#                 #
+#        #        #
+#        #        #
+### ########## ####
+#        #        #
+#        #        #
+#                 #
+#X       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.613
+Check for stopping training :  0.595
+Check for stopping training :  0.514
+Check for stopping training :  0.613
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:05:21
+Iteration:  115
+Training on environment  26167
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  116
+Training on environment  15716
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  117
+Training on environment  37239
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  118
+Training on environment  23149
+Solved with training agent.
+###################
+#      X #        #
+#        #        #
+#        #        #
+#        #     @  #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+####### ##### #####
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.82
+Time elapsed:  00:01:04
+Iteration:  119
+Training on environment  29943
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #X       #
+#        #        #
+#        #  @     #
+#                 #
+##### ########### #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.703
+Check for stopping training :  0.865
+Time elapsed:  00:01:55
+Iteration:  120
+Training on environment  27099
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  121
+Training on environment  17233
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ####### ###
+#        #     X  #
+#        #        #
+#        #        #
+#        #        #
+#        # @      #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.622
+Check for stopping training :  0
+Check for stopping training :  0.703
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:06:56
+Iteration:  122
+Training on environment  9187
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+##### #### ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #    X   #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.829
+Time elapsed:  00:01:57
+Iteration:  123
+Training on environment  26438
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  124
+Training on environment  18979
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#      @ #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+####### #### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#      X #        #
+###################
+Check for stopping training :  0.649
+Check for stopping training :  0.847
+Time elapsed:  00:01:54
+Iteration:  125
+Training on environment  18768
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+##### ####### #####
+#        #        #
+#        #     X  #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.604
+Check for stopping training :  0
+Check for stopping training :  0.622
+Check for stopping training :  0.631
+Check for stopping training :  0.5680000000000001
+Check for stopping training :  0.5680000000000001
+Check for stopping training :  0.883
+Time elapsed:  00:06:17
+Iteration:  126
+Training on environment  44290
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### #### ########
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #@       #
+###################
+Check for stopping training :  0.478
+Check for stopping training :  0.757
+Check for stopping training :  0.4059999999999999
+Check for stopping training :  0.901
+Time elapsed:  00:03:38
+Iteration:  127
+Training on environment  6969
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  128
+Training on environment  9279
+Solved with training agent.
+###################
+#        #    X   #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+## ############ ###
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        # @      #
+###################
+Check for stopping training :  0.604
+Check for stopping training :  0.874
+Time elapsed:  00:01:48
+Iteration:  129
+Training on environment  53924
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  130
+Training on environment  46766
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  131
+Training on environment  49910
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#   X             #
+#   @    #        #
+######## ### ######
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.649
+Check for stopping training :  0.973
+Time elapsed:  00:01:46
+Iteration:  132
+Training on environment  20943
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  133
+Training on environment  30954
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  134
+Training on environment  4210
+Solved with training agent.
+###################
+#        #        #
+#   @    #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+####### #### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#X       #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.487
+Check for stopping training :  0.883
+Time elapsed:  00:03:15
+Iteration:  135
+Training on environment  29563
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  136
+Training on environment  49294
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #   @    #
+###### ######### ##
+#        #        #
+#        #        #
+#        #    X   #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.901
+Time elapsed:  00:01:02
+Iteration:  137
+Training on environment  44259
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  138
+Training on environment  18455
+Solved with training agent.
+###################
+#        #       @#
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #     X  #
+### ###### ########
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.694
+Check for stopping training :  0.955
+Time elapsed:  00:01:48
+Iteration:  139
+Training on environment  38680
+Solved with training agent.
+###################
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+# ########## ######
+#        #        #
+#     X  #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.595
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.685
+Check for stopping training :  0.748
+Check for stopping training :  0
+Check for stopping training :  0.5409999999999999
+Check for stopping training :  0.5589999999999999
+Check for stopping training :  0.82
+Time elapsed:  00:07:48
+Iteration:  140
+Training on environment  55494
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  141
+Training on environment  11370
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  142
+Training on environment  43877
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  143
+Training on environment  19211
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+# X      #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ######## ###
+#        #        #
+#        #  @     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.631
+Check for stopping training :  0.838
+Time elapsed:  00:01:44
+Iteration:  144
+Training on environment  50358
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+## ####### ########
+#        #      X #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:01:51
+Iteration:  145
+Training on environment  53909
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#   X    #        #
+#        #        #
+#        #        #
+##### ########### #
+#        #        #
+#        #        #
+#        #        #
+#             @   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.352
+Check for stopping training :  0.946
+Time elapsed:  00:01:47
+Iteration:  146
+Training on environment  29869
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#   X    #        #
+#        #        #
+#        #        #
+### ########### ###
+# @      #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.892
+Time elapsed:  00:01:00
+Iteration:  147
+Training on environment  28632
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  148
+Training on environment  34033
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  149
+Training on environment  57524
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+######## ####### ##
+#        #        #
+#                 #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+#    X   #        #
+#        #        #
+###################
+Check for stopping training :  0.73
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:01:49
+Iteration:  150
+Training on environment  42829
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ############# ##
+#        #   X    #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  @     #        #
+#        #        #
+###################
+Check for stopping training :  0.694
+Check for stopping training :  0.613
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.991
+Time elapsed:  00:04:04
+*******************************Generalizability test :  0.53 *****************
+Iter:  150  ###############################Average return:  0.7724699999999995 #################
+Number of agents:  89
+Iteration:  151
+Training on environment  53601
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#    @   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ############ ####
+#        #        #
+#      X #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.766
+Check for stopping training :  0.586
+Check for stopping training :  0.694
+Check for stopping training :  0.703
+Check for stopping training :  0.865
+Time elapsed:  00:04:14
+Iteration:  152
+Training on environment  32097
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  153
+Training on environment  37786
+Solved with training agent.
+###################
+# X@     #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ########### ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.784
+Check for stopping training :  0.982
+Time elapsed:  00:01:49
+Iteration:  154
+Training on environment  53469
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+# X      #        #
+####### ###### ####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.757
+Check for stopping training :  0.775
+Check for stopping training :  0.982
+Time elapsed:  00:04:02
+Iteration:  155
+Training on environment  48139
+Solved with pool of agents.
+Time elapsed:  00:00:03
+Iteration:  156
+Training on environment  17623
+Solved with training agent.
+###################
+#        #        #
+#        #   @    #
+#                 #
+#        #        #
+#        #X       #
+#        #        #
+#        #        #
+#        #        #
+##### ########### #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.946
+Time elapsed:  00:01:03
+Iteration:  157
+Training on environment  2514
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# @      #        #
+#        X        #
+# ########### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.244
+Check for stopping training :  0
+Check for stopping training :  0.892
+Time elapsed:  00:02:35
+Iteration:  158
+Training on environment  15080
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#      @ #        #
+#        #        #
+######## #### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#     X  #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.667
+Check for stopping training :  0.5229999999999999
+Check for stopping training :  0.703
+Check for stopping training :  0.5680000000000001
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:04:55
+Iteration:  159
+Training on environment  52201
+Solved with training agent.
+###################
+#        #        #
+#        #    @   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #     X  #
+#                 #
+#### ##### ########
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.31599999999999995
+Check for stopping training :  0.964
+Time elapsed:  00:01:55
+Iteration:  160
+Training on environment  39209
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        # X      #
+#        #        #
+####### ######## ##
+#        #        #
+#        #   @    #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.4959999999999999
+Check for stopping training :  0.604
+Check for stopping training :  0.514
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:03:25
+Iteration:  161
+Training on environment  11471
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  162
+Training on environment  43821
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #@       #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#             X   #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:02:41
+Iteration:  163
+Training on environment  9397
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ##### ######
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#              @  #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.73
+Check for stopping training :  0.577
+Check for stopping training :  0
+Check for stopping training :  0.31599999999999995
+Check for stopping training :  0.847
+Time elapsed:  00:04:04
+Iteration:  164
+Training on environment  4122
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#       @#        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+# ############ ####
+#        #    X   #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.892
+Time elapsed:  00:01:07
+Iteration:  165
+Training on environment  54044
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#         @       #
+#        #        #
+#        #        #
+####### ##### #####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.901
+Time elapsed:  00:01:06
+Iteration:  166
+Training on environment  34696
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  167
+Training on environment  35511
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  168
+Training on environment  5907
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ## ########
+#        #        #
+#        #        #
+#        #   @    #
+#        #        #
+#        #       X#
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.532
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.32499999999999996
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.5049999999999999
+Check for stopping training :  0.6759999999999999
+Check for stopping training :  0.6399999999999999
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:08:28
+Iteration:  169
+Training on environment  14024
+Solved with training agent.
+###################
+#        #      X #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #     @  #
+#        #        #
+#        #        #
+# ########### #####
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.712
+Check for stopping training :  0
+Check for stopping training :  0.757
+Check for stopping training :  0.44199999999999995
+Check for stopping training :  0.919
+Time elapsed:  00:04:04
+Iteration:  170
+Training on environment  52941
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#              X  #
+#        #        #
+#        #        #
+### ###### ########
+#        #        #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.5589999999999999
+Check for stopping training :  0
+Check for stopping training :  0.4959999999999999
+Check for stopping training :  0.973
+Time elapsed:  00:03:24
+Iteration:  171
+Training on environment  52138
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ########## #
+#                 #
+#      @ #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   X    #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.595
+Check for stopping training :  0.856
+Time elapsed:  00:01:56
+Iteration:  172
+Training on environment  57552
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ##### ########
+# X      #@       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.43299999999999994
+Check for stopping training :  0.613
+Check for stopping training :  0.5409999999999999
+Check for stopping training :  0.946
+Time elapsed:  00:03:21
+Iteration:  173
+Training on environment  47662
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  174
+Training on environment  23319
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  175
+Training on environment  15499
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        # X      #
+#        #        #
+#        #        #
+#        #        #
+## ########## #####
+#        #        #
+#        #        #
+#       @         #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.5589999999999999
+Check for stopping training :  0.955
+Time elapsed:  00:01:53
+Iteration:  176
+Training on environment  45785
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #  @     #
+#        #X       #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+##### ########## ##
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.802
+Time elapsed:  00:01:12
+Iteration:  177
+Training on environment  49372
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  178
+Training on environment  21511
+Solved with training agent.
+###################
+#   @    #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###### ######## ###
+#        #        #
+#        #        #
+#        #       X#
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.586
+Check for stopping training :  0.613
+Check for stopping training :  0.667
+Check for stopping training :  0
+Check for stopping training :  0.42399999999999993
+Check for stopping training :  0.964
+Time elapsed:  00:04:50
+Iteration:  179
+Training on environment  46553
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+######## ### ######
+#        #       X#
+#        #        #
+#        # @      #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.766
+Check for stopping training :  0.721
+Check for stopping training :  0.45099999999999996
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.712
+Check for stopping training :  0.37
+Check for stopping training :  0.21699999999999997
+Check for stopping training :  0.784
+Check for stopping training :  0
+Check for stopping training :  0.6399999999999999
+Check for stopping training :  0.829
+Time elapsed:  00:09:33
+Iteration:  180
+Training on environment  53247
+Solved with training agent.
+###################
+#        #        #
+#       @#        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+######## ######## #
+#        #        #
+#      X #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:01:20
+Iteration:  181
+Training on environment  23771
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#      @ #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#### ######### ####
+#        #        #
+#        #        #
+#   X             #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.892
+Time elapsed:  00:01:09
+Iteration:  182
+Training on environment  53544
+Solved with training agent.
+###################
+#        #        #
+#  X     #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   @    #
+#        #        #
+#                 #
+###### ##### ######
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.955
+Time elapsed:  00:01:18
+Iteration:  183
+Training on environment  26933
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#### ####### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#   @    #        #
+#                 #
+#       X#        #
+#        #        #
+###################
+Check for stopping training :  0.946
+Time elapsed:  00:01:15
+Iteration:  184
+Training on environment  56118
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  185
+Training on environment  46226
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  186
+Training on environment  46466
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ######### ##
+# @      #        #
+#   X    #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.5229999999999999
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:02:49
+Iteration:  187
+Training on environment  53783
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  188
+Training on environment  36978
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#             @   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ####### #######
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #     X  #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.6399999999999999
+Check for stopping training :  0
+Check for stopping training :  0.577
+Check for stopping training :  0.6579999999999999
+Check for stopping training :  0.43299999999999994
+Check for stopping training :  0.856
+Time elapsed:  00:04:56
+Iteration:  189
+Training on environment  62238
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  190
+Training on environment  38861
+Solved with training agent.
+###################
+#        #        #
+#        #     X  #
+#        #        #
+#        #        #
+#        #        #
+#        #     @  #
+#                 #
+#        #        #
+### ######## ######
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.685
+Check for stopping training :  0.685
+Check for stopping training :  0.604
+Check for stopping training :  0.4059999999999999
+Check for stopping training :  0
+Check for stopping training :  0.631
+Check for stopping training :  0.5589999999999999
+Check for stopping training :  0.883
+Time elapsed:  00:06:25
+Iteration:  191
+Training on environment  24741
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  192
+Training on environment  4605
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  193
+Training on environment  45321
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  194
+Training on environment  38174
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+#                 #
+##### ##### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  @     #
+#                 #
+###################
+Check for stopping training :  0.973
+Time elapsed:  00:01:15
+Iteration:  195
+Training on environment  62870
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  196
+Training on environment  10012
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  197
+Training on environment  37156
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  198
+Training on environment  24411
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  199
+Training on environment  27
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #  @     #
+#        #        #
+#        #        #
+##### ########### #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #    X   #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.694
+Check for stopping training :  0
+Check for stopping training :  0.532
+Check for stopping training :  0.748
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.829
+Time elapsed:  00:07:57
+Iteration:  200
+Training on environment  44279
+Solved with pool of agents.
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.48 *****************
+Iter:  200  ###############################Average return:  0.7708599999999997 #################
+Number of agents:  118
+Iteration:  201
+Training on environment  26573
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  202
+Training on environment  32395
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  203
+Training on environment  5670
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  204
+Training on environment  3239
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  205
+Training on environment  886
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  206
+Training on environment  42036
+Solved with training agent.
+###################
+#        #        #
+#        #      X #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#### ########## ###
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.847
+Time elapsed:  00:01:19
+Iteration:  207
+Training on environment  64133
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  208
+Training on environment  4484
+Solved with training agent.
+###################
+#                 #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ######## ########
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        # @      #
+#        #        #
+###################
+Check for stopping training :  0.748
+Check for stopping training :  0
+Check for stopping training :  0.685
+Check for stopping training :  0.775
+Check for stopping training :  0.748
+Check for stopping training :  0.45999999999999996
+Check for stopping training :  0
+Check for stopping training :  0.82
+Time elapsed:  00:06:32
+Iteration:  209
+Training on environment  46637
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  210
+Training on environment  22743
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ##############X#
+#        #        #
+#        #        #
+#        #        #
+#        #    @   #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.964
+Time elapsed:  00:01:19
+Iteration:  211
+Training on environment  61450
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   @    #
+#                 #
+#        #        #
+#        #        #
+###### ######### ##
+#        #        #
+#X                #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.892
+Time elapsed:  00:01:26
+Iteration:  212
+Training on environment  49566
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        @        #
+#        #        #
+#### ######### ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  X     #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.964
+Time elapsed:  00:01:24
+Iteration:  213
+Training on environment  60318
+Solved with training agent.
+###################
+#                 #
+#@       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ######## ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#     X           #
+#        #        #
+###################
+Check for stopping training :  0.964
+Time elapsed:  00:01:21
+Iteration:  214
+Training on environment  48187
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  215
+Training on environment  4437
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#  @     #        #
+#        #   X    #
+####### ######## ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.757
+Check for stopping training :  0.973
+Time elapsed:  00:02:03
+Iteration:  216
+Training on environment  28981
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        @        #
+#        #        #
+#      X #        #
+#        #        #
+#        #        #
+#        #        #
+###### #### #######
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.91
+Time elapsed:  00:01:28
+Iteration:  217
+Training on environment  30916
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                @#
+#### ############ #
+#        #        #
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.45099999999999996
+Check for stopping training :  0.667
+Check for stopping training :  0.892
+Time elapsed:  00:03:01
+Iteration:  218
+Training on environment  41869
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  219
+Training on environment  16224
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#   @    #        #
+#                 #
+#   X    #        #
+#        #        #
+#        #        #
+#        #        #
+## ########### ####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.5680000000000001
+Check for stopping training :  0
+Check for stopping training :  0.5680000000000001
+Check for stopping training :  0.784
+Check for stopping training :  0
+Check for stopping training :  0.45999999999999996
+Check for stopping training :  0.865
+Time elapsed:  00:05:39
+Iteration:  220
+Training on environment  51103
+Solved with training agent.
+###################
+#        #        #
+#        #    X   #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+## ############# ##
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.613
+Check for stopping training :  0.595
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:02:47
+Iteration:  221
+Training on environment  27193
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  222
+Training on environment  35238
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  223
+Training on environment  33958
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  224
+Training on environment  8282
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#            X    #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ############# ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#@       #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:01:59
+Iteration:  225
+Training on environment  46516
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+######## ### ######
+#        #        #
+#X       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                @#
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.748
+Check for stopping training :  0.964
+Time elapsed:  00:02:58
+Iteration:  226
+Training on environment  1125
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+## ############## #
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#            @    #
+#        #        #
+###################
+Check for stopping training :  0.6579999999999999
+Check for stopping training :  0.613
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:03:02
+Iteration:  227
+Training on environment  36636
+Solved with training agent.
+###################
+#        #        #
+#  X  @  #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+####### ####### ###
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.802
+Time elapsed:  00:02:03
+Iteration:  228
+Training on environment  23284
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #  X     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### #### ######
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0
+Check for stopping training :  0.33399999999999996
+Check for stopping training :  0.838
+Time elapsed:  00:03:31
+Iteration:  229
+Training on environment  13449
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  230
+Training on environment  43826
+Solved with pool of agents.
+Time elapsed:  00:00:03
+Iteration:  231
+Training on environment  33363
+Solved with training agent.
+###################
+#                 #
+#      X #        #
+#        #        #
+#        #        #
+#  @     #        #
+#        #        #
+#        #        #
+#        #        #
+##### ####### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.45999999999999996
+Check for stopping training :  0.685
+Check for stopping training :  0.766
+Check for stopping training :  0.802
+Time elapsed:  00:03:37
+Iteration:  232
+Training on environment  45292
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  233
+Training on environment  29451
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  234
+Training on environment  14699
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  235
+Training on environment  57473
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  236
+Training on environment  3969
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#### ######## #####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #X       #
+#        #        #
+#        #        #
+#        #@       #
+###################
+Check for stopping training :  0.856
+Time elapsed:  00:01:23
+Iteration:  237
+Training on environment  53907
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  238
+Training on environment  4809
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+## ############ ###
+#        #        #
+#                 #
+#        #        #
+#    @   #        #
+#        #        #
+#        #        #
+#      X #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.694
+Check for stopping training :  0.5049999999999999
+Check for stopping training :  0.748
+Check for stopping training :  0
+Check for stopping training :  0.667
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:06:36
+Iteration:  239
+Training on environment  27460
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  240
+Training on environment  44486
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#     @  #        #
+#       X#        #
+#                 #
+### ###### ########
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:01:35
+Iteration:  241
+Training on environment  13427
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+##### ######### ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#      X # @      #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.82
+Time elapsed:  00:02:08
+Iteration:  242
+Training on environment  52806
+Solved with training agent.
+###################
+#      X #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#@       #        #
+#        #        #
+####### ####### ###
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.91
+Time elapsed:  00:01:26
+Iteration:  243
+Training on environment  32857
+Solved with training agent.
+###################
+#        #   @    #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+####### ###### ####
+#       X         #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:01:36
+Iteration:  244
+Training on environment  3973
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  245
+Training on environment  61741
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+######## ###### ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+#        #     X  #
+#                 #
+###################
+Check for stopping training :  0.874
+Time elapsed:  00:01:36
+Iteration:  246
+Training on environment  18993
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  247
+Training on environment  28978
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  248
+Training on environment  6583
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+## ############# ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#      X          #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.42399999999999993
+Check for stopping training :  0.2799999999999999
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:03:42
+Iteration:  249
+Training on environment  36052
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#       X#        #
+#        #        #
+##### ######### ###
+#        #      @ #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:02:06
+Iteration:  250
+Training on environment  30058
+Solved with pool of agents.
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.55 *****************
+Iter:  250  ###############################Average return:  0.7912899999999995 #################
+Number of agents:  143
+Iteration:  251
+Training on environment  40611
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+##### #### ########
+# X      #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.712
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.6579999999999999
+Check for stopping training :  0.946
+Time elapsed:  00:04:21
+Iteration:  252
+Training on environment  61670
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  253
+Training on environment  48137
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   @    #
+#        #   X    #
+#        #        #
+######## ## #######
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.5229999999999999
+Check for stopping training :  0.703
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:03:40
+Iteration:  254
+Training on environment  15354
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  255
+Training on environment  37055
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#    @   #        #
+###### ###### #####
+#      X #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.6759999999999999
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.694
+Check for stopping training :  0.649
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.919
+Time elapsed:  00:07:39
+Iteration:  256
+Training on environment  5505
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  257
+Training on environment  47244
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# X               #
+#        #        #
+#        #        #
+#        #        #
+######## ######## #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   @    #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.757
+Check for stopping training :  0.973
+Time elapsed:  00:02:17
+Iteration:  258
+Training on environment  11375
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ######## #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #    X   #
+#        #        #
+#          @      #
+###################
+Check for stopping training :  0.757
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:02:13
+Iteration:  259
+Training on environment  17990
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  260
+Training on environment  40515
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  261
+Training on environment  12911
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  262
+Training on environment  40675
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ####### ######
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+# @      #   X    #
+#        #        #
+###################
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:01:22
+Iteration:  263
+Training on environment  38001
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  264
+Training on environment  45781
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  265
+Training on environment  4144
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  266
+Training on environment  31955
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  X     #
+#                 #
+#        #        #
+#        #  @     #
+#### ######### ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.82
+Time elapsed:  00:01:35
+Iteration:  267
+Training on environment  4810
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  268
+Training on environment  39621
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #    @   #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#### ########## ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #X       #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.919
+Time elapsed:  00:01:36
+Iteration:  269
+Training on environment  44522
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  270
+Training on environment  18527
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  271
+Training on environment  51255
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  272
+Training on environment  29728
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  273
+Training on environment  19177
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  274
+Training on environment  31044
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  275
+Training on environment  46412
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #  @     #
+#                 #
+#        #        #
+#        #        #
+#       X#        #
+## ############## #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:01:29
+Iteration:  276
+Training on environment  9349
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ########### #####
+#        #      X #
+#                 #
+#        #        #
+#      @ #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:01:34
+Iteration:  277
+Training on environment  27738
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  278
+Training on environment  45729
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ############ ##
+#        #        #
+#        #        #
+#        #       @#
+#        #        #
+#          X      #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.42399999999999993
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:03:13
+Iteration:  279
+Training on environment  53600
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+####### ######### #
+#                 #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  X     #        #
+###################
+Check for stopping training :  0.577
+Check for stopping training :  0
+Check for stopping training :  0.649
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:03:42
+Iteration:  280
+Training on environment  15997
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  281
+Training on environment  5887
+Solved with pool of agents.
+Time elapsed:  00:00:03
+Iteration:  282
+Training on environment  36698
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  283
+Training on environment  14470
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  284
+Training on environment  55545
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ###### ####
+#      @ #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #    X   #
+#                 #
+###################
+Check for stopping training :  0.532
+Check for stopping training :  0.766
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:03:15
+Iteration:  285
+Training on environment  25336
+Solved with training agent.
+###################
+#        #        #
+#    @   #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ######### ####
+#        #        #
+#        #        #
+#            X    #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.6399999999999999
+Check for stopping training :  0.5680000000000001
+Check for stopping training :  0
+Check for stopping training :  0.16299999999999992
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:06:02
+Iteration:  286
+Training on environment  62830
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+##### ###### ######
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+#@       #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.748
+Check for stopping training :  0.604
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:05:01
+Iteration:  287
+Training on environment  9896
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  288
+Training on environment  62517
+Solved with pool of agents.
+Time elapsed:  00:00:03
+Iteration:  289
+Training on environment  53060
+Solved with training agent.
+###################
+#        #        #
+#        # X      #
+#    @            #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ###### #######
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.703
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:04:45
+Iteration:  290
+Training on environment  48242
+Solved with training agent.
+###################
+#        #  @     #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#### ########### ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#   X    #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:03:10
+Iteration:  291
+Training on environment  35278
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  292
+Training on environment  28862
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  293
+Training on environment  59138
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  294
+Training on environment  23497
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  295
+Training on environment  62807
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#  X     #        #
+#        #        #
+#        #        #
+#        #        #
+#  @     #        #
+## ########### ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.42399999999999993
+Check for stopping training :  0.3879999999999999
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:03:18
+Iteration:  296
+Training on environment  1993
+Solved with training agent.
+###################
+#        #        #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+## ########## #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #   X    #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:02:30
+Iteration:  297
+Training on environment  34264
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  298
+Training on environment  13808
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  299
+Training on environment  60454
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  300
+Training on environment  47448
+Solved with pool of agents.
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.45 *****************
+Iter:  300  ###############################Average return:  0.7683399999999998 #################
+Number of agents:  162
+Iteration:  301
+Training on environment  52988
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  302
+Training on environment  58336
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#         @       #
+#        #        #
+#        #        #
+#     X  #        #
+#        #        #
+### ############ ##
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:01:49
+Iteration:  303
+Training on environment  26888
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  304
+Training on environment  5889
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        # X      #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###### ### ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #      @ #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.73
+Check for stopping training :  0.955
+Time elapsed:  00:02:33
+Iteration:  305
+Training on environment  30409
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  306
+Training on environment  8666
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  307
+Training on environment  2058
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  308
+Training on environment  49184
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        # X      #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ############## #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #   @    #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.5409999999999999
+Check for stopping training :  0.694
+Check for stopping training :  0.5680000000000001
+Check for stopping training :  0.532
+Check for stopping training :  0.586
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:06:25
+Iteration:  309
+Training on environment  15776
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  310
+Training on environment  26355
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  311
+Training on environment  3868
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  312
+Training on environment  61865
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  313
+Training on environment  46115
+Solved with training agent.
+###################
+#        #        #
+#        #   @    #
+#                 #
+#        #        #
+#        #        #
+# X      #        #
+#        #        #
+#        #        #
+####### ###### ####
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.37
+Check for stopping training :  0.946
+Time elapsed:  00:02:51
+Iteration:  314
+Training on environment  32310
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#     @  #        #
+#        #        #
+#        #        #
+#        #        #
+#           X     #
+#        #        #
+### ########## ####
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.352
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.73
+Check for stopping training :  0.487
+Check for stopping training :  0.964
+Time elapsed:  00:04:51
+Iteration:  315
+Training on environment  22972
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  316
+Training on environment  45765
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  317
+Training on environment  33330
+Solved with training agent.
+###################
+#        #        #
+#      X          #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### ####### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #     @  #
+###################
+Check for stopping training :  0.4149999999999999
+Check for stopping training :  0.73
+Check for stopping training :  0.577
+Check for stopping training :  0.838
+Time elapsed:  00:04:24
+Iteration:  318
+Training on environment  15029
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  319
+Training on environment  61053
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#### ########## ###
+#X       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#           @     #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.649
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:03:40
+Iteration:  320
+Training on environment  49474
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ######## ########
+#        #        #
+#                 #
+#        #        #
+#        #        #
+# X      #        #
+#        #        #
+#        #        #
+#        # @      #
+###################
+Check for stopping training :  0.82
+Time elapsed:  00:02:02
+Iteration:  321
+Training on environment  55493
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  322
+Training on environment  26121
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  323
+Training on environment  45600
+Solved with training agent.
+###################
+#        #       X#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+#                 #
+######## ### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.883
+Time elapsed:  00:01:59
+Iteration:  324
+Training on environment  33522
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  325
+Training on environment  58145
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  326
+Training on environment  31354
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ########### ###
+#        #        #
+#                 #
+#     @  #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.6579999999999999
+Check for stopping training :  0.784
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:04:48
+Iteration:  327
+Training on environment  2790
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  328
+Training on environment  56816
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  329
+Training on environment  38141
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#  X     #        #
+#    @   #        #
+#        #        #
+#        #        #
+######## ####### ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.5409999999999999
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:03:52
+Iteration:  330
+Training on environment  9065
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+## ######## #######
+#        #        #
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+#        #@       #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:02:20
+Iteration:  331
+Training on environment  34643
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  332
+Training on environment  11217
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  333
+Training on environment  62518
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+######## ### ######
+#        #        #
+#        #     X  #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.838
+Time elapsed:  00:01:57
+Iteration:  334
+Training on environment  1938
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  335
+Training on environment  19328
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  336
+Training on environment  53646
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#X                #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ##### #####
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #@       #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.6759999999999999
+Check for stopping training :  0.739
+Check for stopping training :  0.4059999999999999
+Check for stopping training :  0.946
+Time elapsed:  00:05:33
+Iteration:  337
+Training on environment  41833
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  338
+Training on environment  55052
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#      @ #        #
+#        #        #
+#        #        #
+##### ########## ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  X     #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.42399999999999993
+Check for stopping training :  0
+Check for stopping training :  0.757
+Check for stopping training :  0.847
+Time elapsed:  00:04:26
+Iteration:  339
+Training on environment  10973
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### ########## ##
+#        #        #
+#        #        #
+# X      #        #
+#       @#        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.964
+Time elapsed:  00:02:15
+Iteration:  340
+Training on environment  53287
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### ######### ###
+#        #        #
+#        #        #
+#   @             #
+# X      #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:04:34
+Iteration:  341
+Training on environment  59883
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  342
+Training on environment  27806
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  343
+Training on environment  8024
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #    @   #
+# ########### #####
+#                 #
+#        #        #
+#        #    X   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.847
+Time elapsed:  00:02:51
+Iteration:  344
+Training on environment  54694
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  345
+Training on environment  7147
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#       X#        #
+#        #        #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+# ############# ###
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:04:36
+Iteration:  346
+Training on environment  5700
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ######### ######
+#        #        #
+#       @#        #
+#                 #
+#        #        #
+#      X #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.901
+Time elapsed:  00:02:03
+Iteration:  347
+Training on environment  61957
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  348
+Training on environment  44619
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  349
+Training on environment  18995
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#    X   #        #
+#        #        #
+### ########## ####
+#        #        #
+#    @   #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.577
+Check for stopping training :  0.838
+Time elapsed:  00:03:04
+Iteration:  350
+Training on environment  17913
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#            @    #
+#        #        #
+#        #        #
+#        #        #
+## ############# ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#      X          #
+###################
+Check for stopping training :  0.784
+Check for stopping training :  0.775
+Check for stopping training :  0.838
+Time elapsed:  00:03:55
+*******************************Generalizability test :  0.6 *****************
+Iter:  350  ###############################Average return:  0.8125299999999999 #################
+Number of agents:  181
+Iteration:  351
+Training on environment  18646
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  352
+Training on environment  42994
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ######### ######
+#        #        #
+#        #        #
+#                 #
+#X       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.5049999999999999
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:03:05
+Iteration:  353
+Training on environment  61215
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        # X      #
+#### ########### ##
+#        #        #
+#        #        #
+#        #        #
+# @      #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.883
+Time elapsed:  00:02:19
+Iteration:  354
+Training on environment  7032
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #     X  #
+#        #        #
+###### ########## #
+#        #        #
+# @      #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.757
+Check for stopping training :  0.55
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.82
+Time elapsed:  00:05:28
+Iteration:  355
+Training on environment  41402
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  356
+Training on environment  55642
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  357
+Training on environment  24881
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  358
+Training on environment  30200
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  359
+Training on environment  8688
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  360
+Training on environment  28330
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  361
+Training on environment  55684
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  362
+Training on environment  49006
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  363
+Training on environment  40802
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  X   @ #        #
+#        #        #
+#        #        #
+#                 #
+######## ######## #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.883
+Time elapsed:  00:02:24
+Iteration:  364
+Training on environment  23675
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  365
+Training on environment  25562
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  366
+Training on environment  3455
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  367
+Training on environment  57185
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  368
+Training on environment  41033
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+#        #        #
+#                 #
+#        #        #
+#      X #        #
+######## #### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.721
+Check for stopping training :  0.892
+Time elapsed:  00:03:05
+Iteration:  369
+Training on environment  40642
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  370
+Training on environment  52700
+Solved with pool of agents.
+Time elapsed:  00:00:06
+Iteration:  371
+Training on environment  48905
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  372
+Training on environment  51952
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+##### ##### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   X    #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.802
+Time elapsed:  00:02:16
+Iteration:  373
+Training on environment  17658
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  374
+Training on environment  41556
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  375
+Training on environment  43056
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  376
+Training on environment  16803
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  377
+Training on environment  63131
+Solved with training agent.
+###################
+#        #        #
+#   X    #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ######### #######
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       @#        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.33399999999999996
+Check for stopping training :  0.901
+Time elapsed:  00:03:02
+Iteration:  378
+Training on environment  53290
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  379
+Training on environment  61135
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #    @   #
+#        #        #
+#        #        #
+####### ######## ##
+#        #        #
+#        #        #
+#                X#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.577
+Check for stopping training :  0.45099999999999996
+Check for stopping training :  0.766
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:05:45
+Iteration:  380
+Training on environment  49164
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  381
+Training on environment  53018
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#      @ #        #
+#        #        #
+#                 #
+### ####### #######
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #   X    #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.847
+Time elapsed:  00:03:22
+Iteration:  382
+Training on environment  18404
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  383
+Training on environment  33080
+Solved with training agent.
+###################
+#                 #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ######## ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#   X    #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.739
+Check for stopping training :  0.532
+Check for stopping training :  0.775
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.4149999999999999
+Check for stopping training :  0.5589999999999999
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:11:56
+Iteration:  384
+Training on environment  40104
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  385
+Training on environment  17978
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  386
+Training on environment  47296
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #     @  #
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+#        #        #
+### ####### #######
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.964
+Time elapsed:  00:02:39
+Iteration:  387
+Training on environment  62565
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  388
+Training on environment  61051
+Solved with pool of agents.
+Time elapsed:  00:00:04
+Iteration:  389
+Training on environment  53038
+Solved with training agent.
+###################
+#   @    #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+## ############# ##
+#  X              #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.685
+Check for stopping training :  0.955
+Time elapsed:  00:05:31
+Iteration:  390
+Training on environment  54288
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  391
+Training on environment  49474
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ######## ########
+#        #        #
+#                 #
+#        #        #
+#        #        #
+# X      #        #
+#        #        #
+#        #        #
+#        # @      #
+###################
+Check for stopping training :  0.613
+Check for stopping training :  0.739
+Check for stopping training :  0.784
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:05:42
+Iteration:  392
+Training on environment  43526
+Solved with training agent.
+###################
+#        #        #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+##### ######### ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# X               #
+#        #        #
+###################
+Check for stopping training :  0.3969999999999999
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.982
+Time elapsed:  00:05:13
+Iteration:  393
+Training on environment  31548
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  394
+Training on environment  32600
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  395
+Training on environment  47585
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+### ############ ##
+#        #      X #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.964
+Time elapsed:  00:02:42
+Iteration:  396
+Training on environment  35815
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  397
+Training on environment  31071
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  398
+Training on environment  54540
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  399
+Training on environment  23231
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  400
+Training on environment  33003
+Solved with pool of agents.
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.55 *****************
+Iter:  400  ###############################Average return:  0.8103699999999996 #################
+Number of agents:  195
+Iteration:  401
+Training on environment  19660
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  402
+Training on environment  54253
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ### #######
+#        #        #
+# @      #        #
+#        #        #
+#        #        #
+#        #     X  #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.514
+Check for stopping training :  0.946
+Time elapsed:  00:04:10
+Iteration:  403
+Training on environment  35501
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #     @  #
+###### ########## #
+#        #        #
+#             X   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:02:50
+Iteration:  404
+Training on environment  33993
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  405
+Training on environment  50315
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  406
+Training on environment  20000
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#     @  #        #
+#        #        #
+# ############## ##
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #X       #
+###################
+Check for stopping training :  0.649
+Check for stopping training :  0.586
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:04:22
+Iteration:  407
+Training on environment  15515
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#       @#        #
+#        #        #
+#        #        #
+####### ##### #####
+#        #        #
+#                 #
+#        #       X#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.946
+Time elapsed:  00:02:42
+Iteration:  408
+Training on environment  63257
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        # @      #
+#    X   #        #
+##### ########### #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.91
+Time elapsed:  00:02:59
+Iteration:  409
+Training on environment  5505
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  410
+Training on environment  14171
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  411
+Training on environment  21175
+Solved with pool of agents.
+Time elapsed:  00:00:06
+Iteration:  412
+Training on environment  52339
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  413
+Training on environment  34332
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+######## # ########
+#        #        #
+#        #   X    #
+#        #        #
+#        #        #
+#     @  #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.757
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:04:56
+Iteration:  414
+Training on environment  44003
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ###### ####
+#        #        #
+#        #X       #
+#        #        #
+#        #        #
+#     @  #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.739
+Check for stopping training :  0.5409999999999999
+Check for stopping training :  0.6399999999999999
+Check for stopping training :  0.955
+Time elapsed:  00:04:44
+Iteration:  415
+Training on environment  32137
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+### ########## ####
+#                 #
+#        #        #
+#        #    X   #
+#        #        #
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.45099999999999996
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:04:42
+Iteration:  416
+Training on environment  12734
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  417
+Training on environment  17317
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  418
+Training on environment  3628
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  419
+Training on environment  19502
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  420
+Training on environment  29609
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  421
+Training on environment  26141
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  422
+Training on environment  38622
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#       @#        #
+#        #        #
+#        #   X    #
+#                 #
+#        #        #
+##### ######## ####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:03:22
+Iteration:  423
+Training on environment  968
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  424
+Training on environment  37492
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  425
+Training on environment  30922
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#  @     #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+##### ######## ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+# X      #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.964
+Time elapsed:  00:02:50
+Iteration:  426
+Training on environment  51773
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  427
+Training on environment  60397
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  428
+Training on environment  31096
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  429
+Training on environment  29804
+Solved with training agent.
+###################
+#        #       X#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#     @  #        #
+####### ## ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.901
+Time elapsed:  00:02:46
+Iteration:  430
+Training on environment  15433
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  431
+Training on environment  33244
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  432
+Training on environment  32666
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  433
+Training on environment  15387
+Solved with training agent.
+###################
+#      @ #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       X#
+#### ##### ########
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.901
+Time elapsed:  00:03:02
+Iteration:  434
+Training on environment  60074
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  435
+Training on environment  30830
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  436
+Training on environment  27417
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  437
+Training on environment  58134
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ####### ########
+#        #        #
+#        #        #
+#        #    @   #
+#        #        #
+#        #        #
+#        #        #
+#       X         #
+#        #        #
+###################
+Check for stopping training :  0.784
+Check for stopping training :  0.6759999999999999
+Check for stopping training :  0.5589999999999999
+Check for stopping training :  0.955
+Time elapsed:  00:04:56
+Iteration:  438
+Training on environment  52679
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  439
+Training on environment  46669
+Solved with training agent.
+###################
+#                 #
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### ##### #######
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0
+Check for stopping training :  0.703
+Check for stopping training :  0.613
+Check for stopping training :  0.4959999999999999
+Check for stopping training :  0.874
+Time elapsed:  00:06:42
+Iteration:  440
+Training on environment  55396
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  441
+Training on environment  27835
+Solved with training agent.
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#      X #        #
+#        #        #
+# ############## ##
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#  @     #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.919
+Time elapsed:  00:02:59
+Iteration:  442
+Training on environment  40038
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  443
+Training on environment  59225
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  444
+Training on environment  47012
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  445
+Training on environment  31719
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  446
+Training on environment  18758
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  447
+Training on environment  51530
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  448
+Training on environment  8827
+Solved with training agent.
+###################
+#        #        #
+#        #    @   #
+#               X #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ##### ######
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.802
+Time elapsed:  00:03:00
+Iteration:  449
+Training on environment  27752
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  450
+Training on environment  15267
+Solved with pool of agents.
+Time elapsed:  00:00:01
+*******************************Generalizability test :  0.61 *****************
+Iter:  450  ###############################Average return:  0.81523 #################
+Number of agents:  211
+Iteration:  451
+Training on environment  52465
+Solved with pool of agents.
+Time elapsed:  00:00:06
+Iteration:  452
+Training on environment  3627
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  453
+Training on environment  50393
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  454
+Training on environment  31494
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  455
+Training on environment  36885
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#         X       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ###### #######
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #   @    #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.5680000000000001
+Check for stopping training :  0.865
+Time elapsed:  00:04:57
+Iteration:  456
+Training on environment  21932
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  457
+Training on environment  52525
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  458
+Training on environment  36389
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+# @ X    #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+# ########### #####
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.838
+Time elapsed:  00:02:54
+Iteration:  459
+Training on environment  14170
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  460
+Training on environment  63370
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #X       #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+# ########### #####
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.757
+Check for stopping training :  0.919
+Time elapsed:  00:04:36
+Iteration:  461
+Training on environment  59880
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #X       #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+######## #### #####
+#        #        #
+#        #        #
+#        #        #
+#      @ #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0.73
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:04:15
+Iteration:  462
+Training on environment  63849
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  463
+Training on environment  48047
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  464
+Training on environment  10386
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  465
+Training on environment  33954
+Solved with training agent.
+###################
+#      X #        #
+#        #        #
+#           @     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ####### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.802
+Time elapsed:  00:02:55
+Iteration:  466
+Training on environment  35280
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #      X #
+#        #        #
+#        #        #
+# ############# ###
+#      @ #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.45999999999999996
+Check for stopping training :  0.766
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:05:37
+Iteration:  467
+Training on environment  40859
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  468
+Training on environment  33743
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  469
+Training on environment  60159
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+### ####### #######
+#        #        #
+#      @          #
+#        #        #
+#   X    #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.847
+Time elapsed:  00:05:22
+Iteration:  470
+Training on environment  41099
+Solved with pool of agents.
+Time elapsed:  00:00:05
+Iteration:  471
+Training on environment  19880
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  472
+Training on environment  15090
+Solved with training agent.
+###################
+#        #        #
+#        # @      #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### ##### #######
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #X       #
+###################
+Check for stopping training :  0.487
+Check for stopping training :  0.631
+Check for stopping training :  0.946
+Time elapsed:  00:04:41
+Iteration:  473
+Training on environment  63322
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  474
+Training on environment  7560
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  475
+Training on environment  9835
+Solved with training agent.
+###################
+#        #        #
+#        #    X   #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+# ############ ####
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.4149999999999999
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:06:14
+Iteration:  476
+Training on environment  52822
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  477
+Training on environment  6453
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  478
+Training on environment  56917
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  479
+Training on environment  2369
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  480
+Training on environment  51687
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  481
+Training on environment  6676
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #       @#
+#        #        #
+#        #X       #
+#        #        #
+#### ######## #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:03:40
+Iteration:  482
+Training on environment  11917
+Solved with training agent.
+###################
+#        #      X #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+# ############# ###
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #    @   #
+#        #        #
+###################
+Check for stopping training :  0.6579999999999999
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:03:46
+Iteration:  483
+Training on environment  1705
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#               @ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ########### ####
+#        #X       #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.847
+Time elapsed:  00:05:05
+Iteration:  484
+Training on environment  33651
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #     X  #
+#        #        #
+#        #        #
+##### ######## ####
+#        #        #
+#        #        #
+#     @  #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.5680000000000001
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.892
+Time elapsed:  00:04:51
+Iteration:  485
+Training on environment  20007
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ########### ###
+#                 #
+#        #        #
+#        #        #
+#       @#  X     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.748
+Check for stopping training :  0.964
+Time elapsed:  00:04:28
+Iteration:  486
+Training on environment  10902
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+#       X         #
+#        #        #
+## ####### ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.802
+Time elapsed:  00:03:23
+Iteration:  487
+Training on environment  52835
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #  X     #
+#        #        #
+#        #        #
+#         @       #
+#        #        #
+###### ######### ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:03:55
+Iteration:  488
+Training on environment  52558
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  489
+Training on environment  47619
+Solved with training agent.
+###################
+#        #        #
+#        #    @   #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ######### ##
+#        #        #
+#        #        #
+#        #    X   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.865
+Time elapsed:  00:02:58
+Iteration:  490
+Training on environment  27977
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  491
+Training on environment  34264
+Solved with pool of agents.
+Time elapsed:  00:00:02
+Iteration:  492
+Training on environment  13385
+Solved with training agent.
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#       @#        #
+#        #        #
+#### ########## ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#               X #
+#        #        #
+###################
+Check for stopping training :  0.5589999999999999
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:04:01
+Iteration:  493
+Training on environment  64561
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  494
+Training on environment  33772
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  495
+Training on environment  36000
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  496
+Training on environment  37105
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  497
+Training on environment  35742
+Solved with pool of agents.
+Time elapsed:  00:00:01
+Iteration:  498
+Training on environment  1936
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  499
+Training on environment  11117
+Solved with pool of agents.
+Time elapsed:  00:00:00
+Iteration:  500
+Training on environment  34631
+Solved with pool of agents.
+Time elapsed:  00:00:03
+*******************************Generalizability test :  0.62 *****************
+Iter:  500  ###############################Average return:  0.8253999999999999 #################
+Number of agents:  229

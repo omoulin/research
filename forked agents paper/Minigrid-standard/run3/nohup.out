@@ -1,0 +1,6531 @@
+Run  1  Training on environment  55333
+###################
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+# ############### #
+#        #      @ #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:10:14
+*******************************Generalizability test :  0.19 *****************
+Iter:  0  ###############################Average return:  0.21733999999999998 #################
+Number of agents:  1
+Run  2  Training on environment  2186
+###################
+#        #        #
+#        #        #
+#X       #      @ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+######## ####### ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:43:14
+Run  3  Training on environment  8719
+###################
+#        #        #
+#        #        #
+#  @              #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ######### ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #      X #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.892
+Time elapsed:  00:53:58
+Run  4  Training on environment  13419
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       X#
+#        #        #
+#                 #
+#        #        #
+## ########## #####
+#        #        #
+#       @#        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:35:25
+Run  5  Training on environment  29004
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ########@######
+#        #X       #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.892
+Time elapsed:  01:03:11
+Run  6  Training on environment  24904
+Time elapsed:  00:00:00
+Run  7  Training on environment  14470
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### ######## ####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #       @#
+#        #        #
+#        # X      #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  01:25:01
+Run  8  Training on environment  1437
+###################
+#        #        #
+#X       #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+######## ## #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#             @   #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:04:16
+Run  9  Training on environment  64064
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+######## # ########
+#        #        #
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+#                 #
+#        #        #
+#   X    #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:28:28
+Run  10  Training on environment  43456
+Time elapsed:  00:00:00
+Run  11  Training on environment  13756
+Time elapsed:  00:00:00
+Run  12  Training on environment  9437
+###################
+#        #        #
+#      @          #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### #### ######
+#        #        #
+#        #        #
+#        #        #
+#        #X       #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.82
+Time elapsed:  00:15:22
+Run  13  Training on environment  43258
+###################
+#        #        #
+#        #        #
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#### ########## ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#              @  #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:19:58
+Run  14  Training on environment  44295
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+# X      #        #
+#        #        #
+#        #       @#
+#        #        #
+###### ###### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:19:10
+Run  15  Training on environment  56347
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+#        #        #
+#### ########### ##
+#  @     #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:08:19
+Run  16  Training on environment  64112
+###################
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#### ####### ######
+#        #        #
+#        #        #
+#        #        #
+#        X        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:19:21
+Run  17  Training on environment  52005
+###################
+#                X#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ############## #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#     @  #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:42:05
+Run  18  Training on environment  38848
+Time elapsed:  00:00:00
+Run  19  Training on environment  55571
+Time elapsed:  00:00:00
+Run  20  Training on environment  40975
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#     X  #        #
+#        #        #
+#                 #
+######## #### #####
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:08:23
+Run  21  Training on environment  53358
+Time elapsed:  00:00:00
+Run  22  Training on environment  55185
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#@       #       X#
+### ########## ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.694
+Check for stopping training :  0.784
+Check for stopping training :  0.955
+Time elapsed:  00:05:53
+Run  23  Training on environment  24547
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    @            #
+#        #        #
+##### ########### #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #       X#
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.829
+Time elapsed:  00:02:22
+Run  24  Training on environment  45131
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#     X  #        #
+#        #        #
+#        #        #
+## ########### ####
+#        #        #
+#                 #
+#        #    @   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.73
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.604
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:24:06
+Run  25  Training on environment  53186
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+#        #        #
+#        #        #
+######## ##### ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#      X #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.739
+Check for stopping training :  0.982
+Time elapsed:  00:26:45
+Run  26  Training on environment  23461
+Time elapsed:  00:00:00
+Run  27  Training on environment  40082
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+# ######### #######
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #   X    #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.649
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:40:29
+Run  28  Training on environment  37773
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ########## #####
+#        #        #
+#       X#        #
+#        #        #
+#        #  @     #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:07:05
+Run  29  Training on environment  45942
+Time elapsed:  00:00:00
+Run  30  Training on environment  20836
+###################
+#        #        #
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+### ############# #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#      X #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.829
+Time elapsed:  00:18:05
+Run  31  Training on environment  4575
+Time elapsed:  00:00:01
+Run  32  Training on environment  40532
+###################
+#        #        #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#### ######## #####
+#        #        #
+#        #        #
+#        #        #
+#          @      #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:05:10
+Run  33  Training on environment  16859
+Time elapsed:  00:00:00
+Run  34  Training on environment  56825
+###################
+#    @   #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ### ########
+#                 #
+#        #        #
+#        #        #
+#        #X       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:14:09
+Run  35  Training on environment  47027
+Time elapsed:  00:00:00
+Run  36  Training on environment  2998
+Time elapsed:  00:00:00
+Run  37  Training on environment  42841
+Time elapsed:  00:00:00
+Run  38  Training on environment  28986
+###################
+#  X     #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ####### ########
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.847
+Time elapsed:  00:30:02
+Run  39  Training on environment  30963
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #    @   #
+#  X              #
+#        #        #
+####### ## ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:16:41
+Run  40  Training on environment  23518
+Time elapsed:  00:00:00
+Run  41  Training on environment  30684
+Time elapsed:  00:00:00
+Run  42  Training on environment  43959
+Time elapsed:  00:00:00
+Run  43  Training on environment  35790
+###################
+#        #        #
+#        #        #
+#   @    #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+####### ####### ###
+#        #        #
+#        #      X #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.955
+Time elapsed:  00:08:23
+Run  44  Training on environment  1968
+###################
+#        #        #
+#        #        #
+#        #        #
+#         @       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ########## #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#   X    #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.649
+Check for stopping training :  0.622
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:43:45
+Run  45  Training on environment  28067
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+##### ##### #######
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #  @     #
+#        #        #
+#        #        #
+#  X     #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.685
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:26:47
+Run  46  Training on environment  58970
+###################
+#        #        #
+#                 #
+#        #        #
+#        #   @    #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ############### #
+#        #        #
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:58:24
+Run  47  Training on environment  48408
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #X       #
+#        #        #
+######## ##### ####
+#        #        #
+#     @  #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.757
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0
+Check for stopping training :  0.748
+Check for stopping training :  0.955
+Time elapsed:  00:17:02
+Run  48  Training on environment  45714
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #X       #
+#                 #
+#        #        #
+#        #        #
+######## ### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#    @   #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:06:09
+Run  49  Training on environment  19605
+Time elapsed:  00:00:00
+Run  50  Training on environment  36904
+Time elapsed:  00:00:00
+Run  51  Training on environment  12955
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #    @   #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#### ####### ######
+#  X     #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:07:17
+*******************************Generalizability test :  0.46 *****************
+Iter:  50  ###############################Average return:  0.6262799999999998 #################
+Number of agents:  28
+Run  52  Training on environment  61940
+###################
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+## ############## #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                @#
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:12:05
+Run  53  Training on environment  58063
+Time elapsed:  00:00:00
+Run  54  Training on environment  53252
+Time elapsed:  00:00:00
+Run  55  Training on environment  1732
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  @     #
+##### ####### #####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#   X    #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:08:38
+Run  56  Training on environment  59802
+###################
+#  @     #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#### ######### ####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#  X     #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:50:39
+Run  57  Training on environment  21307
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #     @  #
+#        #        #
+##### ##### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#X                #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:11:24
+Run  58  Training on environment  28899
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        # @      #
+#                 #
+#        #        #
+###### #### #######
+#        #        #
+#      X #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.775
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:21:42
+Run  59  Training on environment  27144
+Time elapsed:  00:00:00
+Run  60  Training on environment  63949
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        # @      #
+# ############# ###
+#        #        #
+#        #        #
+#     X  #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.784
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.739
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  01:11:58
+Run  61  Training on environment  27164
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#              @  #
+#        #        #
+##### ##### #######
+#        #        #
+#                 #
+#        #        #
+#        #   X    #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.82
+Time elapsed:  00:06:49
+Run  62  Training on environment  19047
+Time elapsed:  00:00:00
+Run  63  Training on environment  46471
+Time elapsed:  00:00:01
+Run  64  Training on environment  2683
+Time elapsed:  00:00:00
+Run  65  Training on environment  3018
+Time elapsed:  00:00:00
+Run  66  Training on environment  60690
+###################
+#        #        #
+#   X             #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ######## ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#      @          #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:07:04
+Run  67  Training on environment  15361
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#  @     #        #
+#        #        #
+###### ######### ##
+#        #        #
+#  X     #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:04:16
+Run  68  Training on environment  6569
+###################
+#        #        #
+#        #        #
+#        #        #
+#    X   #        #
+#        #        #
+#                 #
+#        #       @#
+#        #        #
+###### ######## ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.892
+Time elapsed:  00:22:00
+Run  69  Training on environment  12871
+Time elapsed:  00:00:00
+Run  70  Training on environment  40723
+###################
+#       @#        #
+#        #        #
+#        #     X  #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###### ########## #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.766
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:58:12
+Run  71  Training on environment  12578
+Time elapsed:  00:00:00
+Run  72  Training on environment  54378
+Time elapsed:  00:00:00
+Run  73  Training on environment  20817
+Time elapsed:  00:00:00
+Run  74  Training on environment  18223
+Time elapsed:  00:00:00
+Run  75  Training on environment  36720
+###################
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#### ##### ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  X     #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:33:00
+Run  76  Training on environment  54669
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+#                 #
+### ######### #####
+#        #        #
+#        #        #
+#        #      @ #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.892
+Time elapsed:  00:06:21
+Run  77  Training on environment  17145
+Time elapsed:  00:00:00
+Run  78  Training on environment  14092
+Time elapsed:  00:00:00
+Run  79  Training on environment  13595
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#  X     #        #
+######## ######## #
+#        #        #
+#        #        #
+#          @      #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:11:40
+Run  80  Training on environment  3987
+###################
+#        #        #
+#        #  X     #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+### ###### ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#   @    #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.829
+Time elapsed:  00:05:06
+Run  81  Training on environment  55735
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#X       #        #
+#        #        #
+# ############ ####
+#        #        #
+#        #        #
+#        @        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.982
+Time elapsed:  00:05:24
+Run  82  Training on environment  28349
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+# X      #        #
+#        #        #
+#        #        #
+### ########## ####
+#        #        #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:14:17
+Run  83  Training on environment  61368
+Time elapsed:  00:00:00
+Run  84  Training on environment  64874
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #     @  #
+#        #        #
+#        #        #
+###### ########## #
+#        #X       #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:51:47
+Run  85  Training on environment  61737
+Time elapsed:  00:00:00
+Run  86  Training on environment  34936
+Time elapsed:  00:00:01
+Run  87  Training on environment  8828
+Time elapsed:  00:00:00
+Run  88  Training on environment  32147
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ######## #####
+#        #     @  #
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:06:33
+Run  89  Training on environment  4732
+Time elapsed:  00:00:00
+Run  90  Training on environment  34484
+Time elapsed:  00:00:00
+Run  91  Training on environment  60590
+Time elapsed:  00:00:00
+Run  92  Training on environment  61399
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# X      #        #
+#### ############ #
+#        #        #
+#    @            #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:19:05
+Run  93  Training on environment  45155
+Time elapsed:  00:00:00
+Run  94  Training on environment  33335
+Time elapsed:  00:00:00
+Run  95  Training on environment  61691
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       @         #
+#        #        #
+#        #        #
+#        #        #
+#### ######### ####
+#        #        #
+#        #  X     #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:14:35
+Run  96  Training on environment  33953
+Time elapsed:  00:00:00
+Run  97  Training on environment  18688
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# X      #        #
+#        #        #
+#               @ #
+#        #        #
+##### ####### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:07:39
+Run  98  Training on environment  36519
+###################
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+# ############# ###
+#        #        #
+#                 #
+#    @   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.622
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.766
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  01:05:35
+Run  99  Training on environment  63805
+Time elapsed:  00:00:00
+Run  100  Training on environment  51329
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ######## ##
+#        #        #
+#               @ #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.775
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:22:05
+Run  101  Training on environment  58995
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.52 *****************
+Iter:  100  ###############################Average return:  0.6846899999999999 #################
+Number of agents:  52
+Run  102  Training on environment  55970
+Time elapsed:  00:00:00
+Run  103  Training on environment  16050
+Time elapsed:  00:00:00
+Run  104  Training on environment  33970
+Time elapsed:  00:00:00
+Run  105  Training on environment  42709
+Time elapsed:  00:00:00
+Run  106  Training on environment  4430
+###################
+#        #X       #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ########## ####
+#        #        #
+#        #        #
+#                 #
+#    @   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.847
+Time elapsed:  00:05:08
+Run  107  Training on environment  56439
+Time elapsed:  00:00:00
+Run  108  Training on environment  26937
+Time elapsed:  00:00:00
+Run  109  Training on environment  7024
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+#        #        #
+##### #### ########
+#        #        #
+#        #        #
+#      X #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.694
+Check for stopping training :  0.919
+Time elapsed:  00:20:22
+Run  110  Training on environment  63887
+Time elapsed:  00:00:00
+Run  111  Training on environment  7029
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  X     #
+#                 #
+#        #        #
+##### ########## ##
+#        #        #
+#@       #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:32:49
+Run  112  Training on environment  59624
+Time elapsed:  00:00:00
+Run  113  Training on environment  2053
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+##### ####@########
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:52:57
+Run  114  Training on environment  42420
+###################
+#        #     @  #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+### ####### #######
+#        #        #
+#                 #
+#        #       X#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.694
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:11:47
+Run  115  Training on environment  1402
+###################
+#        #        #
+#     @  #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###### ### ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #    X   #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:07:33
+Run  116  Training on environment  23583
+Time elapsed:  00:00:00
+Run  117  Training on environment  29941
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+###### ######### ##
+#        #        #
+#   @    #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.892
+Time elapsed:  00:05:53
+Run  118  Training on environment  24000
+Time elapsed:  00:00:02
+Run  119  Training on environment  38949
+###################
+#        #        #
+#                 #
+#        #        #
+#        #  @     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### #### ########
+#        #  X     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.838
+Time elapsed:  00:10:42
+Run  120  Training on environment  3553
+Time elapsed:  00:00:02
+Run  121  Training on environment  45664
+Time elapsed:  00:00:00
+Run  122  Training on environment  63968
+Time elapsed:  00:00:01
+Run  123  Training on environment  41970
+###################
+#        #        #
+#        #      @ #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+######## # ########
+#  X     #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:31:54
+Run  124  Training on environment  15054
+Time elapsed:  00:00:00
+Run  125  Training on environment  37035
+Time elapsed:  00:00:00
+Run  126  Training on environment  17383
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ######## ###
+#        #        #
+#        # X      #
+#        #        #
+#       @#        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.712
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:16:28
+Run  127  Training on environment  33179
+Time elapsed:  00:00:00
+Run  128  Training on environment  51025
+Time elapsed:  00:00:00
+Run  129  Training on environment  10308
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   X    #
+# ######### #######
+#  @     #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:05:54
+Run  130  Training on environment  33025
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+## ########### ####
+#        #        #
+#        #        #
+#        #        #
+#      @ #        #
+#        #        #
+#        #  X     #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:20:08
+Run  131  Training on environment  9848
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#   @    #        #
+#        #        #
+#        #        #
+### ###### ########
+#        #   X    #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:49:28
+Run  132  Training on environment  38786
+Time elapsed:  00:00:00
+Run  133  Training on environment  26676
+Time elapsed:  00:00:00
+Run  134  Training on environment  22246
+###################
+# X      #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#######@######### #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:12:24
+Run  135  Training on environment  38877
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  X     #        #
+#        #        #
+#        #        #
+####### ### #######
+#        #        #
+#        #        #
+#        #        #
+#       @         #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:12:25
+Run  136  Training on environment  42841
+Time elapsed:  00:00:00
+Run  137  Training on environment  60963
+Time elapsed:  00:00:00
+Run  138  Training on environment  13773
+Time elapsed:  00:00:00
+Run  139  Training on environment  3508
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+####### ###### ####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #      X #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.874
+Time elapsed:  00:10:31
+Run  140  Training on environment  59765
+###################
+#        #   X    #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ######## ########
+#        #        #
+#        #        #
+#          @      #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.982
+Time elapsed:  00:11:17
+Run  141  Training on environment  17304
+Time elapsed:  00:00:00
+Run  142  Training on environment  60001
+Time elapsed:  00:00:00
+Run  143  Training on environment  3992
+Time elapsed:  00:00:00
+Run  144  Training on environment  35198
+###################
+#        #        #
+#        #    X   #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###### ######### ##
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       @#        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.991
+Time elapsed:  00:14:05
+Run  145  Training on environment  2742
+Time elapsed:  00:00:00
+Run  146  Training on environment  8955
+Time elapsed:  00:00:00
+Run  147  Training on environment  27425
+Time elapsed:  00:00:00
+Run  148  Training on environment  3956
+###################
+#        # X      #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### ######## ####
+#                 #
+#      @ #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:28:32
+Run  149  Training on environment  45402
+Time elapsed:  00:00:00
+Run  150  Training on environment  15237
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #    @   #
+#        #        #
+######## ####### ##
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#   X    #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:13:44
+Run  151  Training on environment  47971
+###################
+#        #        #
+#       @#        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+######## ##### ####
+#        #        #
+#        #        #
+#        #        #
+#                X#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.766
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:18:08
+*******************************Generalizability test :  0.49 *****************
+Iter:  150  ###############################Average return:  0.7033499999999999 #################
+Number of agents:  73
+Run  152  Training on environment  18596
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #      X #
+#        #        #
+#        #        #
+#### ######### ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        # @      #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:32:12
+Run  153  Training on environment  34350
+Time elapsed:  00:00:00
+Run  154  Training on environment  30323
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #    X   #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+######## ##### ####
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#      @ #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:22:59
+Run  155  Training on environment  15314
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#               @ #
+#        #        #
+#        #        #
+#        #        #
+###### ### ########
+#        #        #
+#        #        #
+#        #       X#
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.775
+Check for stopping training :  0.802
+Time elapsed:  00:11:34
+Run  156  Training on environment  63647
+Time elapsed:  00:00:04
+Run  157  Training on environment  375
+Time elapsed:  00:00:03
+Run  158  Training on environment  51695
+Time elapsed:  00:00:00
+Run  159  Training on environment  61631
+Time elapsed:  00:00:00
+Run  160  Training on environment  26251
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ##### ########
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #    @   #
+#        #        #
+#     X  #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.838
+Time elapsed:  00:09:09
+Run  161  Training on environment  47627
+###################
+#        #        #
+#      X #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+##### ##### #######
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #      @ #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:15:56
+Run  162  Training on environment  24563
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ############ ####
+#                 #
+#        #     X  #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# @      #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:46:35
+Run  163  Training on environment  45190
+Time elapsed:  00:00:01
+Run  164  Training on environment  16310
+###################
+#        #        #
+#        #        #
+#        #     @  #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+####### ######### #
+#        #        #
+#        #        #
+#        #        #
+#   X             #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:03:11
+Run  165  Training on environment  40928
+Time elapsed:  00:00:00
+Run  166  Training on environment  47071
+###################
+#        #        #
+#X       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+####### ######### #
+#        #        #
+#        #        #
+#    @            #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.73
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.694
+Check for stopping training :  0.946
+Time elapsed:  01:11:31
+Run  167  Training on environment  7498
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  X     #
+###### ###### #####
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#      @ #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.982
+Time elapsed:  00:01:58
+Run  168  Training on environment  42647
+###################
+#        #        #
+#        #        #
+#        #     X  #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+####### ##### #####
+#                 #
+#        #        #
+#        #        #
+#        #    @   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:52:36
+Run  169  Training on environment  8853
+###################
+#        #        #
+#        #        #
+# @               #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ####### ###
+#        #        #
+#        #        #
+#        #        #
+#X       #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:15:51
+Run  170  Training on environment  40228
+Time elapsed:  00:00:00
+Run  171  Training on environment  5095
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#### ######### ####
+#       @#        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                X#
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  02:19:02
+Run  172  Training on environment  46080
+###################
+#        #        #
+#   X             #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ######## ########
+#                 #
+#        #        #
+#        #        #
+#        #  @     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:21:35
+Run  173  Training on environment  13208
+Time elapsed:  00:00:00
+Run  174  Training on environment  32999
+Time elapsed:  00:00:00
+Run  175  Training on environment  24305
+Time elapsed:  00:00:00
+Run  176  Training on environment  42368
+Time elapsed:  00:00:00
+Run  177  Training on environment  10343
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  X     #
+#                 #
+#        #        #
+#        #        #
+####### ######## ##
+#        #        #
+#        #        #
+#    @            #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:11:08
+Run  178  Training on environment  26312
+Time elapsed:  00:00:02
+Run  179  Training on environment  56099
+Time elapsed:  00:00:00
+Run  180  Training on environment  30189
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  @     #        #
+#        #        #
+#                 #
+#        #        #
+###### ##### ######
+#        #        #
+#        #        #
+#        #        #
+#        #     X  #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.847
+Time elapsed:  00:21:39
+Run  181  Training on environment  31696
+Time elapsed:  00:00:00
+Run  182  Training on environment  34981
+Time elapsed:  00:00:01
+Run  183  Training on environment  41193
+###################
+#        #        #
+#                 #
+#        #    X   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ######## #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#  @     #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:18:14
+Run  184  Training on environment  63726
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        @        #
+#        #        #
+#        #        #
+###### ######### ##
+#X       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:22:34
+Run  185  Training on environment  54299
+Time elapsed:  00:00:00
+Run  186  Training on environment  15658
+Time elapsed:  00:00:00
+Run  187  Training on environment  18372
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+#        #        #
+#                 #
+#        #        #
+######## # ########
+#        #        #
+#        #        #
+# X      #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:25:12
+Run  188  Training on environment  37260
+Time elapsed:  00:00:00
+Run  189  Training on environment  12677
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+####### ####### ###
+#  X     #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #   @    #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:17:43
+Run  190  Training on environment  52163
+Time elapsed:  00:00:00
+Run  191  Training on environment  6431
+Time elapsed:  00:00:00
+Run  192  Training on environment  43146
+Time elapsed:  00:00:02
+Run  193  Training on environment  57229
+Time elapsed:  00:00:00
+Run  194  Training on environment  18631
+Time elapsed:  00:00:00
+Run  195  Training on environment  49688
+Time elapsed:  00:00:00
+Run  196  Training on environment  64021
+Time elapsed:  00:00:02
+Run  197  Training on environment  7794
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+## ############ ###
+#        #        #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.829
+Time elapsed:  00:08:00
+Run  198  Training on environment  17211
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #       @#
+#        #        #
+######## ##### ####
+#        #        #
+#        #        #
+#      X #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0.946
+Time elapsed:  00:04:37
+Run  199  Training on environment  11569
+Time elapsed:  00:00:04
+Run  200  Training on environment  12982
+###################
+#        #        #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#### ####### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #     X  #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.685
+Check for stopping training :  0.955
+Time elapsed:  00:10:23
+Run  201  Training on environment  36561
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.55 *****************
+Iter:  200  ###############################Average return:  0.7068499999999998 #################
+Number of agents:  95
+Run  202  Training on environment  47230
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+## ######## #######
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#      X #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.82
+Time elapsed:  00:39:44
+Run  203  Training on environment  39039
+###################
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#     X  #        #
+#        #        #
+###### ######## ###
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:03:41
+Run  204  Training on environment  16571
+Time elapsed:  00:00:00
+Run  205  Training on environment  24933
+###################
+#                 #
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ####X######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.991
+Time elapsed:  00:20:01
+Run  206  Training on environment  54680
+Time elapsed:  00:00:00
+Run  207  Training on environment  25665
+Time elapsed:  00:00:00
+Run  208  Training on environment  58212
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+## ############# ##
+#                 #
+#       @#        #
+#        #        #
+#        #        #
+#        #        #
+#        #    X   #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.667
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.6759999999999999
+Check for stopping training :  0.883
+Time elapsed:  00:21:40
+Run  209  Training on environment  38526
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+## ######## #######
+#        #        #
+#                 #
+#        #        #
+#     @  #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:10:41
+Run  210  Training on environment  64147
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+####### ######### #
+#                 #
+#        #        #
+#        #        #
+#        #       X#
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.757
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:29:25
+Run  211  Training on environment  45476
+Time elapsed:  00:00:00
+Run  212  Training on environment  33671
+Time elapsed:  00:00:02
+Run  213  Training on environment  36478
+Time elapsed:  00:00:00
+Run  214  Training on environment  46875
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+## ############## #
+#        #        #
+#                 #
+#        #        #
+#   @    #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:08:57
+Run  215  Training on environment  15498
+Time elapsed:  00:00:00
+Run  216  Training on environment  52703
+Time elapsed:  00:00:00
+Run  217  Training on environment  18188
+Time elapsed:  00:00:00
+Run  218  Training on environment  17691
+###################
+#           X     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ######## ######
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:07:46
+Run  219  Training on environment  38499
+Time elapsed:  00:00:00
+Run  220  Training on environment  26963
+Time elapsed:  00:00:00
+Run  221  Training on environment  57423
+Time elapsed:  00:00:00
+Run  222  Training on environment  12319
+Time elapsed:  00:00:00
+Run  223  Training on environment  45093
+###################
+#        #        #
+#        #        #
+#        #        #
+#   X    #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+######## ######## #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   @    #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:03:11
+Run  224  Training on environment  20055
+Time elapsed:  00:00:00
+Run  225  Training on environment  36965
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#  X     #        #
+#        #        #
+#        #     @  #
+##### #### ########
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.838
+Time elapsed:  00:10:16
+Run  226  Training on environment  11499
+Time elapsed:  00:00:00
+Run  227  Training on environment  2127
+Time elapsed:  00:00:02
+Run  228  Training on environment  46834
+Time elapsed:  00:00:02
+Run  229  Training on environment  11801
+Time elapsed:  00:00:00
+Run  230  Training on environment  9520
+Time elapsed:  00:00:00
+Run  231  Training on environment  63664
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#             X   #
+#        #        #
+# ######## ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#       @#        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.748
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:10:16
+Run  232  Training on environment  4242
+###################
+#                 #
+#        #        #
+#        #        #
+#        #X       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ######## ########
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.577
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  01:02:12
+Run  233  Training on environment  49001
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #    X   #
+#        #        #
+## ######## #######
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:06:10
+Run  234  Training on environment  8523
+###################
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+######## ###### ###
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #  X     #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:04:40
+Run  235  Training on environment  54381
+Time elapsed:  00:00:00
+Run  236  Training on environment  21696
+Time elapsed:  00:00:04
+Run  237  Training on environment  10230
+###################
+#        #        #
+#        #        #
+#        #@       #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#### ######### ####
+#        #        #
+#        #        #
+#X       #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:13:24
+Run  238  Training on environment  60548
+Time elapsed:  00:00:00
+Run  239  Training on environment  22183
+Time elapsed:  00:00:00
+Run  240  Training on environment  63552
+Time elapsed:  00:00:04
+Run  241  Training on environment  30624
+Time elapsed:  00:00:01
+Run  242  Training on environment  20408
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #   X    #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#### ########## ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# @               #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.847
+Time elapsed:  00:07:38
+Run  243  Training on environment  3295
+Time elapsed:  00:00:00
+Run  244  Training on environment  16041
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #       X#
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###### ##### ######
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:14:36
+Run  245  Training on environment  36792
+Time elapsed:  00:00:00
+Run  246  Training on environment  19475
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+###### ######## ###
+#        #        #
+#        #        #
+#        #        #
+#@                #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.703
+Check for stopping training :  0
+Check for stopping training :  0.604
+Check for stopping training :  0
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:48:06
+Run  247  Training on environment  42017
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        # X      #
+#        #        #
+##### ##### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#   @    #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.703
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:15:53
+Run  248  Training on environment  54854
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+#        #        #
+##### ##### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #      X #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:32:38
+Run  249  Training on environment  1983
+Time elapsed:  00:00:00
+Run  250  Training on environment  15506
+Time elapsed:  00:00:07
+Run  251  Training on environment  10546
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.54 *****************
+Iter:  250  ###############################Average return:  0.7038700000000003 #################
+Number of agents:  115
+Run  252  Training on environment  26156
+Time elapsed:  00:00:00
+Run  253  Training on environment  27884
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #    X   #
+#                 #
+#        #        #
+#        #        #
+######## ######## #
+#        #        #
+#        #        #
+#        #     @  #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.784
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  01:00:08
+Run  254  Training on environment  26142
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+####### ### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#   X    #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:11:44
+Run  255  Training on environment  34621
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ############### #
+#        #     @  #
+#        #        #
+# X      #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.469
+Check for stopping training :  0.856
+Time elapsed:  00:17:22
+Run  256  Training on environment  49543
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #  @     #
+#        #        #
+#        #        #
+######## ####### ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#   X    #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.775
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9369999999999999
+Time elapsed:  01:29:04
+Run  257  Training on environment  3143
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ########### ###
+#                 #
+#        #        #
+#       @#        #
+#        #        #
+#        #        #
+#        #        #
+#        # X      #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.901
+Time elapsed:  00:05:05
+Run  258  Training on environment  26298
+Time elapsed:  00:00:01
+Run  259  Training on environment  16036
+###################
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+# ############# ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    X   #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.42399999999999993
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:14:14
+Run  260  Training on environment  37186
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#      X #        #
+# ############## ##
+#            @    #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.73
+Check for stopping training :  0.757
+Check for stopping training :  0.856
+Time elapsed:  00:09:09
+Run  261  Training on environment  33697
+###################
+#      X #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ########### ####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #  @     #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.43299999999999994
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:20:33
+Run  262  Training on environment  48536
+Time elapsed:  00:00:02
+Run  263  Training on environment  38089
+Time elapsed:  00:00:00
+Run  264  Training on environment  58859
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #   X    #
+###### #### #######
+#        #        #
+#@       #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  01:02:32
+Run  265  Training on environment  21753
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###@######### #####
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:11:20
+Run  266  Training on environment  17838
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #X       #
+#        #        #
+#        #        #
+# ############# ###
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#     @  #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.964
+Time elapsed:  00:17:33
+Run  267  Training on environment  17540
+Time elapsed:  00:00:00
+Run  268  Training on environment  13788
+Time elapsed:  00:00:00
+Run  269  Training on environment  16215
+###################
+#      @ #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+## ############ ###
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:06:59
+Run  270  Training on environment  17961
+Time elapsed:  00:00:00
+Run  271  Training on environment  63291
+###################
+#   X    #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+##### ########## ##
+#        #        #
+#        #        #
+#        #        #
+#       @         #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.775
+Check for stopping training :  0
+Check for stopping training :  0.874
+Time elapsed:  00:10:44
+Run  272  Training on environment  24768
+Time elapsed:  00:00:00
+Run  273  Training on environment  21593
+Time elapsed:  00:00:00
+Run  274  Training on environment  50463
+Time elapsed:  00:00:00
+Run  275  Training on environment  35638
+###################
+# X      #     @  #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+####### ## ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:07:58
+Run  276  Training on environment  28405
+Time elapsed:  00:00:00
+Run  277  Training on environment  2243
+Time elapsed:  00:00:00
+Run  278  Training on environment  43411
+###################
+#        #        #
+#  @     #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+######## ######## #
+#        #X       #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:52:34
+Run  279  Training on environment  63912
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+#                 #
+#        #        #
+## ############# ##
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#      @ #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:25:48
+Run  280  Training on environment  4172
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#          X      #
+#        #        #
+#        #        #
+### ############# #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #     @  #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.6579999999999999
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  01:10:16
+Run  281  Training on environment  28163
+Time elapsed:  00:00:00
+Run  282  Training on environment  59170
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ######## ######
+#        #        #
+#        #        #
+#        #        #
+#        #  @     #
+#        #        #
+#  X     #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:10:47
+Run  283  Training on environment  45061
+###################
+#        #        #
+#        #        #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###### #### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#X       #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:16:41
+Run  284  Training on environment  49130
+Time elapsed:  00:00:00
+Run  285  Training on environment  24585
+Time elapsed:  00:00:00
+Run  286  Training on environment  22080
+Time elapsed:  00:00:04
+Run  287  Training on environment  46790
+Time elapsed:  00:00:00
+Run  288  Training on environment  53363
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+## ########## #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#      X #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:23:58
+Run  289  Training on environment  24515
+Time elapsed:  00:00:00
+Run  290  Training on environment  46645
+Time elapsed:  00:00:00
+Run  291  Training on environment  63735
+Time elapsed:  00:00:00
+Run  292  Training on environment  25666
+Time elapsed:  00:00:00
+Run  293  Training on environment  31733
+###################
+#        #        #
+#                 #
+#        #        #
+#        #    X   #
+#     @  #        #
+#        #        #
+#        #        #
+#        #        #
+###### ### ########
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:35:39
+Run  294  Training on environment  47675
+###################
+#                 #
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #@       #
+#### ###### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:24:21
+Run  295  Training on environment  36853
+Time elapsed:  00:00:01
+Run  296  Training on environment  61132
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+##### ######## ####
+#        #        #
+#        #        #
+#        #        #
+#        #   @    #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:07:55
+Run  297  Training on environment  54016
+###################
+#        #        #
+#     @           #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ######## ##
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #    X   #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:20:39
+Run  298  Training on environment  68
+###################
+#        #        #
+#        #        #
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+######## ###### ###
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.982
+Time elapsed:  00:08:14
+Run  299  Training on environment  38333
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### #########X#####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       @#        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.874
+Time elapsed:  00:25:57
+Run  300  Training on environment  23483
+Time elapsed:  00:00:00
+Run  301  Training on environment  45272
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### ##### ######
+#@       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #     X  #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:29:58
+*******************************Generalizability test :  0.66 *****************
+Iter:  300  ###############################Average return:  0.76315 #################
+Number of agents:  142
+Run  302  Training on environment  40931
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+## ############## #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        # @      #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:09:09
+Run  303  Training on environment  50709
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #    @   #
+#        #        #
+#                 #
+## ############## #
+#        #        #
+#                 #
+#        #  X     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.784
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:22:24
+Run  304  Training on environment  50716
+Time elapsed:  00:00:00
+Run  305  Training on environment  23788
+###################
+#   @             #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ############ ####
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #X       #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:07:54
+Run  306  Training on environment  13626
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ## ########
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+# @      #        #
+#        #        #
+#        #  X     #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.829
+Time elapsed:  00:09:37
+Run  307  Training on environment  26835
+Time elapsed:  00:00:10
+Run  308  Training on environment  51921
+###################
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+######## #### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#           X     #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.874
+Time elapsed:  00:08:16
+Run  309  Training on environment  40368
+Time elapsed:  00:00:00
+Run  310  Training on environment  42208
+###################
+#        #     X  #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ###### ########
+#        #        #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:39:32
+Run  311  Training on environment  53070
+Time elapsed:  00:00:00
+Run  312  Training on environment  53622
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ############## ##
+#        #        #
+#                 #
+#        #   @    #
+#        #        #
+#        #        #
+#X       #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:23:10
+Run  313  Training on environment  61448
+###################
+#        #        #
+#        #        #
+#        #        #
+#         @       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ########### ####
+#                 #
+#        #        #
+#        #        #
+#        #     X  #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:09:05
+Run  314  Training on environment  28298
+Time elapsed:  00:00:00
+Run  315  Training on environment  2407
+###################
+#        #        #
+#    @   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+######## ## #######
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       X#
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.847
+Time elapsed:  00:12:27
+Run  316  Training on environment  48168
+Time elapsed:  00:00:00
+Run  317  Training on environment  38066
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    X            #
+#        #        #
+#### ######## #####
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #  @     #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  01:21:54
+Run  318  Training on environment  11499
+Time elapsed:  00:00:00
+Run  319  Training on environment  40995
+Time elapsed:  00:00:00
+Run  320  Training on environment  6450
+Time elapsed:  00:00:00
+Run  321  Training on environment  17349
+Time elapsed:  00:00:00
+Run  322  Training on environment  57450
+###################
+#        #        #
+#     X  #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+# ######### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#   @    #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:17:35
+Run  323  Training on environment  61255
+Time elapsed:  00:00:00
+Run  324  Training on environment  290
+Time elapsed:  00:00:00
+Run  325  Training on environment  57590
+Time elapsed:  00:00:00
+Run  326  Training on environment  24401
+Time elapsed:  00:00:00
+Run  327  Training on environment  57756
+###################
+#        #      @ #
+#        #        #
+#        #        #
+# X      #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###### ###### #####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:08:24
+Run  328  Training on environment  7506
+Time elapsed:  00:00:00
+Run  329  Training on environment  19049
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#X       #        #
+#        #    @   #
+#        #        #
+###### #### #######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:04:49
+Run  330  Training on environment  13091
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+# #############@###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#  X     #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:05:02
+Run  331  Training on environment  16567
+Time elapsed:  00:00:00
+Run  332  Training on environment  17100
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#### ######### ####
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #  @     #
+#      X #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.829
+Time elapsed:  00:13:10
+Run  333  Training on environment  63122
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+## ######### ######
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  X     #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:04:46
+Run  334  Training on environment  12510
+Time elapsed:  00:00:00
+Run  335  Training on environment  44914
+Time elapsed:  00:00:00
+Run  336  Training on environment  61300
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#      @ # X      #
+#### ########### ##
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.856
+Time elapsed:  00:22:31
+Run  337  Training on environment  10395
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#      @ #        #
+######## # ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #    X   #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.919
+Time elapsed:  00:12:30
+Run  338  Training on environment  16215
+###################
+#      @ #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+## ############ ###
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:08:05
+Run  339  Training on environment  40422
+Time elapsed:  00:00:00
+Run  340  Training on environment  42347
+Time elapsed:  00:00:06
+Run  341  Training on environment  1499
+Time elapsed:  00:00:00
+Run  342  Training on environment  14573
+Time elapsed:  00:00:02
+Run  343  Training on environment  8723
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+# @      #        #
+#### ############ #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.586
+Check for stopping training :  0.892
+Time elapsed:  00:21:09
+Run  344  Training on environment  22282
+Time elapsed:  00:00:07
+Run  345  Training on environment  33420
+Time elapsed:  00:00:00
+Run  346  Training on environment  39158
+###################
+#          @      #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+##### ########### #
+# X      #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:10:42
+Run  347  Training on environment  44427
+Time elapsed:  00:00:01
+Run  348  Training on environment  41053
+Time elapsed:  00:00:00
+Run  349  Training on environment  2224
+###################
+#        #        #
+#  @     #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+## ######### ######
+#        #       X#
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.874
+Time elapsed:  00:24:08
+Run  350  Training on environment  43609
+Time elapsed:  00:00:00
+Run  351  Training on environment  38899
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.58 *****************
+Iter:  350  ###############################Average return:  0.7531600000000002 #################
+Number of agents:  164
+Run  352  Training on environment  45467
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+#        #        #
+######## ### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       X#
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:10:43
+Run  353  Training on environment  46335
+Time elapsed:  00:00:00
+Run  354  Training on environment  49973
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#       @#        #
+#                 #
+#        #        #
+####### ###### ####
+#        #        #
+#        #        #
+#  X     #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:07:43
+Run  355  Training on environment  56961
+Time elapsed:  00:00:00
+Run  356  Training on environment  31519
+Time elapsed:  00:00:00
+Run  357  Training on environment  47314
+Time elapsed:  00:00:00
+Run  358  Training on environment  11085
+###################
+#        #        #
+#        #   X    #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+####### ##### #####
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#    @   #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.802
+Time elapsed:  00:14:47
+Run  359  Training on environment  13871
+###################
+#        #        #
+#        #        #
+# @      #X       #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#### ###### #######
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.901
+Time elapsed:  00:53:34
+Run  360  Training on environment  21295
+Time elapsed:  00:00:00
+Run  361  Training on environment  8224
+Time elapsed:  00:00:00
+Run  362  Training on environment  61222
+Time elapsed:  00:00:00
+Run  363  Training on environment  25476
+Time elapsed:  00:00:00
+Run  364  Training on environment  59566
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#         @       #
+#        #        #
+#        #        #
+###### ######## ###
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        # X      #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:20:39
+Run  365  Training on environment  16206
+Time elapsed:  00:00:00
+Run  366  Training on environment  47010
+###################
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+######## ####### ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                @#
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:15:56
+Run  367  Training on environment  58792
+Time elapsed:  00:00:00
+Run  368  Training on environment  17071
+###################
+#        #        #
+#            @    #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ############# #
+#   X    #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.892
+Time elapsed:  00:23:08
+Run  369  Training on environment  1073
+Time elapsed:  00:00:02
+Run  370  Training on environment  29826
+Time elapsed:  00:00:00
+Run  371  Training on environment  54776
+###################
+#        #        #
+#         X       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# ########### #####
+#     @  #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:20:52
+Run  372  Training on environment  36009
+Time elapsed:  00:00:07
+Run  373  Training on environment  4631
+Time elapsed:  00:00:00
+Run  374  Training on environment  23156
+Time elapsed:  00:00:00
+Run  375  Training on environment  60386
+Time elapsed:  00:00:00
+Run  376  Training on environment  50129
+Time elapsed:  00:00:00
+Run  377  Training on environment  10475
+Time elapsed:  00:00:00
+Run  378  Training on environment  12450
+Time elapsed:  00:00:00
+Run  379  Training on environment  30718
+Time elapsed:  00:00:00
+Run  380  Training on environment  6275
+Time elapsed:  00:00:00
+Run  381  Training on environment  13746
+###################
+#        #      @ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    X   #        #
+#                 #
+#### ############ #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.694
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.748
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  01:07:05
+Run  382  Training on environment  55256
+Time elapsed:  00:00:03
+Run  383  Training on environment  52812
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# X      #        #
+#        #      @ #
+###### ### ########
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.982
+Time elapsed:  00:06:20
+Run  384  Training on environment  22770
+Time elapsed:  00:00:00
+Run  385  Training on environment  40498
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+# X      #    @   #
+## ######## #######
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:12:58
+Run  386  Training on environment  17810
+Time elapsed:  00:00:00
+Run  387  Training on environment  22133
+Time elapsed:  00:00:00
+Run  388  Training on environment  63192
+Time elapsed:  00:00:00
+Run  389  Training on environment  51676
+Time elapsed:  00:00:00
+Run  390  Training on environment  17274
+###################
+#        #@       #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+####### ######## ##
+#                 #
+#        #   X    #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9279999999999999
+Time elapsed:  00:11:44
+Run  391  Training on environment  52241
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ######## ##
+#        #      @ #
+#                 #
+#   X    #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.766
+Check for stopping training :  0.973
+Time elapsed:  00:14:01
+Run  392  Training on environment  234
+Time elapsed:  00:00:07
+Run  393  Training on environment  4281
+###################
+#        #     X  #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ########### ##
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#   @    #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.964
+Time elapsed:  00:44:18
+Run  394  Training on environment  59690
+Time elapsed:  00:00:00
+Run  395  Training on environment  17647
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #   @    #
+#        #        #
+#### ########### ##
+#                 #
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.892
+Time elapsed:  00:07:37
+Run  396  Training on environment  48992
+Time elapsed:  00:00:00
+Run  397  Training on environment  4512
+Time elapsed:  00:00:00
+Run  398  Training on environment  2515
+Time elapsed:  00:00:00
+Run  399  Training on environment  47456
+Time elapsed:  00:00:01
+Run  400  Training on environment  7453
+Time elapsed:  00:00:00
+Run  401  Training on environment  64439
+###################
+#        #        #
+#        #        #
+#X       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###### ### ########
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #   @    #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:19:56
+*******************************Generalizability test :  0.5 *****************
+Iter:  400  ###############################Average return:  0.7445299999999997 #################
+Number of agents:  180
+Run  402  Training on environment  50344
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#     X  #        #
+#        #        #
+#        #        #
+######## ###### ###
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#         @       #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:10:08
+Run  403  Training on environment  51914
+Time elapsed:  00:00:05
+Run  404  Training on environment  46678
+Time elapsed:  00:00:00
+Run  405  Training on environment  9661
+Time elapsed:  00:00:00
+Run  406  Training on environment  36349
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#   X    #        #
+#        #        #
+#        #        #
+####### #### ######
+#        #        #
+#        #    @   #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.802
+Time elapsed:  00:37:53
+Run  407  Training on environment  50133
+Time elapsed:  00:00:00
+Run  408  Training on environment  58396
+Time elapsed:  00:00:01
+Run  409  Training on environment  37417
+Time elapsed:  00:00:00
+Run  410  Training on environment  63437
+Time elapsed:  00:00:00
+Run  411  Training on environment  43498
+###################
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+##### ###### ######
+#        #        #
+#        #      X #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:29:39
+Run  412  Training on environment  8371
+Time elapsed:  00:00:00
+Run  413  Training on environment  21308
+Time elapsed:  00:00:00
+Run  414  Training on environment  50634
+Time elapsed:  00:00:00
+Run  415  Training on environment  37296
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+### ######### #####
+#        #        #
+#        #       @#
+#X       #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.7929999999999999
+Check for stopping training :  0.847
+Time elapsed:  00:10:14
+Run  416  Training on environment  39791
+Time elapsed:  00:00:00
+Run  417  Training on environment  32666
+###################
+#                 #
+#        #        #
+#        #        #
+#    @   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ######## ##
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #  X     #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.739
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:39:22
+Run  418  Training on environment  52056
+Time elapsed:  00:00:00
+Run  419  Training on environment  103
+Time elapsed:  00:00:00
+Run  420  Training on environment  55465
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#     X  #        #
+#        #        #
+#                 #
+#        #        #
+######## # ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #       @#
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.775
+Check for stopping training :  0.964
+Time elapsed:  00:11:50
+Run  421  Training on environment  20224
+Time elapsed:  00:00:00
+Run  422  Training on environment  44135
+###################
+#        #        #
+#       @#        #
+#        #     X  #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+######## # ########
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.766
+Check for stopping training :  0.919
+Time elapsed:  00:16:57
+Run  423  Training on environment  23206
+Time elapsed:  00:00:04
+Run  424  Training on environment  33674
+Time elapsed:  00:00:04
+Run  425  Training on environment  47453
+Time elapsed:  00:00:00
+Run  426  Training on environment  50084
+Time elapsed:  00:00:00
+Run  427  Training on environment  363
+###################
+#        #        #
+#                 #
+#   X    #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ###### ####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #  @     #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:10:02
+Run  428  Training on environment  4277
+Time elapsed:  00:00:07
+Run  429  Training on environment  53945
+Time elapsed:  00:00:01
+Run  430  Training on environment  17535
+Time elapsed:  00:00:00
+Run  431  Training on environment  10162
+###################
+#        #        #
+#             X   #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+### ############# #
+#   @    #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.739
+Check for stopping training :  0.955
+Time elapsed:  00:09:51
+Run  432  Training on environment  7940
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#           X     #
+#        #        #
+#        #        #
+#        #        #
+# ########## ######
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#     @  #        #
+###################
+Check for stopping training :  0.91
+Time elapsed:  00:05:18
+Run  433  Training on environment  19718
+###################
+#        #        #
+#  X     #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###### #### #######
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #     @  #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:50:06
+Run  434  Training on environment  35319
+Time elapsed:  00:00:00
+Run  435  Training on environment  53193
+Time elapsed:  00:00:00
+Run  436  Training on environment  44265
+###################
+#        #        #
+#    X   #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+######## ###### ###
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:07:21
+Run  437  Training on environment  10940
+Time elapsed:  00:00:00
+Run  438  Training on environment  6556
+###################
+#   @    #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+##### #######X#####
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.82
+Time elapsed:  00:08:49
+Run  439  Training on environment  4443
+Time elapsed:  00:00:00
+Run  440  Training on environment  49411
+Time elapsed:  00:00:00
+Run  441  Training on environment  34881
+Time elapsed:  00:00:08
+Run  442  Training on environment  5967
+###################
+#    @   #  X     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###### ######## ###
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  00:18:10
+Run  443  Training on environment  59571
+###################
+#        #        #
+#      X #        #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+### ########### ###
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.73
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:13:32
+Run  444  Training on environment  39321
+Time elapsed:  00:00:01
+Run  445  Training on environment  57368
+Time elapsed:  00:00:00
+Run  446  Training on environment  35209
+Time elapsed:  00:00:00
+Run  447  Training on environment  42694
+###################
+#        #        #
+#        #        #
+#      @ #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+##### ####### #####
+#        #        #
+#        #        #
+#        #        #
+#                X#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.973
+Time elapsed:  00:27:20
+Run  448  Training on environment  7440
+###################
+#        #        #
+#        #        #
+#               X #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ######### ######
+#        #        #
+#        #        #
+#                 #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.946
+Time elapsed:  00:12:36
+Run  449  Training on environment  29602
+Time elapsed:  00:00:00
+Run  450  Training on environment  31829
+###################
+#        #        #
+#        #@       #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+## ########## #####
+#        #        #
+#        #        #
+#        #        #
+# X      #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.982
+Time elapsed:  00:11:03
+Run  451  Training on environment  17973
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.53 *****************
+Iter:  450  ###############################Average return:  0.7576900000000001 #################
+Number of agents:  198
+Run  452  Training on environment  27307
+###################
+#        #        #
+#        #        #
+# @      #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+##### ####### #####
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#    X   #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0.8109999999999999
+Time elapsed:  00:13:28
+Run  453  Training on environment  5787
+Time elapsed:  00:00:00
+Run  454  Training on environment  26469
+Time elapsed:  00:00:00
+Run  455  Training on environment  25456
+Time elapsed:  00:00:00
+Run  456  Training on environment  9709
+Time elapsed:  00:00:00
+Run  457  Training on environment  29199
+Time elapsed:  00:00:00
+Run  458  Training on environment  39405
+Time elapsed:  00:00:01
+Run  459  Training on environment  6060
+Time elapsed:  00:00:00
+Run  460  Training on environment  30343
+Time elapsed:  00:00:00
+Run  461  Training on environment  6847
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#X       #        #
+#        #        #
+#                 #
+##### ####### #####
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#@       #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.982
+Time elapsed:  00:25:07
+Run  462  Training on environment  50253
+Time elapsed:  00:00:00
+Run  463  Training on environment  25229
+###################
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #     @  #
+#        #        #
+# ########### #####
+#        #        #
+# X               #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.865
+Time elapsed:  01:06:01
+Run  464  Training on environment  48343
+###################
+#        #        #
+#        #        #
+# @      #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+##### ########### #
+#                 #
+#        #        #
+#        #        #
+#      X #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0.838
+Time elapsed:  01:22:31
+Run  465  Training on environment  49127
+Time elapsed:  00:00:00
+Run  466  Training on environment  57443
+Time elapsed:  00:00:00
+Run  467  Training on environment  40429
+Time elapsed:  00:00:01
+Run  468  Training on environment  64187
+Time elapsed:  00:00:00
+Run  469  Training on environment  23159
+Time elapsed:  00:00:07
+Run  470  Training on environment  36531
+###################
+#        #        #
+#        #       @#
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###### ####### ####
+#        #        #
+#       X#        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.82
+Time elapsed:  02:50:46
+Run  471  Training on environment  28595
+Time elapsed:  00:00:00
+Run  472  Training on environment  60066
+Time elapsed:  00:00:00
+Run  473  Training on environment  53580
+Time elapsed:  00:00:00
+Run  474  Training on environment  3310
+Time elapsed:  00:00:00
+Run  475  Training on environment  3218
+###################
+#        #        #
+#        #        #
+#@       #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+## ####### ########
+#        #        #
+#        #        #
+#        #        #
+#     X  #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.838
+Time elapsed:  00:09:21
+Run  476  Training on environment  33016
+Time elapsed:  00:00:00
+Run  477  Training on environment  8427
+Time elapsed:  00:00:04
+Run  478  Training on environment  58135
+Time elapsed:  00:00:00
+Run  479  Training on environment  29702
+Time elapsed:  00:00:00
+Run  480  Training on environment  55763
+###################
+#        #        #
+#      X          #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#### ####### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#         @       #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.9369999999999999
+Time elapsed:  00:12:24
+Run  481  Training on environment  15661
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#     @           #
+### ###### ########
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#       X#        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.838
+Time elapsed:  00:18:33
+Run  482  Training on environment  16665
+Time elapsed:  00:00:00
+Run  483  Training on environment  8804
+Time elapsed:  00:00:00
+Run  484  Training on environment  63764
+Time elapsed:  00:00:01
+Run  485  Training on environment  48823
+Time elapsed:  00:00:00
+Run  486  Training on environment  28799
+Time elapsed:  00:00:00
+Run  487  Training on environment  49110
+###################
+#        #        #
+#        #        #
+#        #        #
+#           X     #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+####### ###### ####
+#       @#        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.91
+Time elapsed:  00:32:37
+Run  488  Training on environment  28726
+Time elapsed:  00:00:00
+Run  489  Training on environment  48589
+Time elapsed:  00:00:00
+Run  490  Training on environment  57712
+Time elapsed:  00:00:00
+Run  491  Training on environment  25622
+Time elapsed:  00:00:00
+Run  492  Training on environment  11508
+###################
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+# @      #        #
+### ########## ####
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #      X #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.5049999999999999
+Check for stopping training :  0
+Check for stopping training :  0.82
+Time elapsed:  00:32:06
+Run  493  Training on environment  18293
+Time elapsed:  00:00:00
+Run  494  Training on environment  49784
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+######## #### #####
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #@       #
+#       X#        #
+###################
+Check for stopping training :  0.991
+Time elapsed:  00:11:26
+Run  495  Training on environment  19498
+###################
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#        #        #
+#        #        #
+#        #        #
+######## ####### ##
+#        #        #
+#        #        #
+#        #  @     #
+#        #        #
+#        #        #
+#X       #        #
+#        #        #
+#                 #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.829
+Time elapsed:  01:22:17
+Run  496  Training on environment  7962
+Time elapsed:  00:00:00
+Run  497  Training on environment  45030
+###################
+#                 #
+#        #   X    #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+######## ### ######
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+#  @     #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.955
+Time elapsed:  00:09:00
+Run  498  Training on environment  5050
+###################
+#        #        #
+#        #        #
+# @      #   X    #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#                 #
+###### ######## ###
+#                 #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+#        #        #
+###################
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0
+Check for stopping training :  0.883
+Time elapsed:  00:37:35
+Run  499  Training on environment  17304
+Time elapsed:  00:00:00
+Run  500  Training on environment  24272
+Time elapsed:  00:00:00
+Run  501  Training on environment  32403
+Time elapsed:  00:00:00
+*******************************Generalizability test :  0.59 *****************
+Iter:  500  ###############################Average return:  0.7840699999999998 #################
+Number of agents:  212
