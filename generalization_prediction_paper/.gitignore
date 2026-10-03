@@ -1,0 +1,10 @@
+# experiment outputs (created by the scripts, not versioned)
+gen_aware_ppo/data/
+comparisons/*/results/
+*.log
+
+# python / env
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/

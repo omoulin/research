@@ -1,0 +1,9 @@
+stable-baselines3==1.8.0
+gym==0.21.0
+procgen==0.10.7
+gym-minigrid==1.0.3
+torch>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+scipy
+matplotlib
